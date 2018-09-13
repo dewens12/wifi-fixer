@@ -5,7 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8a25188-9b05-4372-a7e9-5d9fc17087dd" name="Default" comment="Gradle 5.0&#10;Java 10&#10;&#10;Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.11-20180822000000+0000/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.11-20180822000000+0000/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.11-20180822000000+0000/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.11-20180822000000+0000/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.11-20180822000000+0000/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.11-20180822000000+0000/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.11-20180822000000+0000/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.11-20180822000000+0000/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.11-20180822000000+0000/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.11-20180822000000+0000/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.11-20180822000000+0000/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.0-20180905035920+0000/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.0-20180905035920+0000/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.0-20180905035920+0000/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.0-20180905035920+0000/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.0-20180905035920+0000/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.0-20180905035920+0000/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.0-20180905035920+0000/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.0-20180905035920+0000/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wifi-Fixer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Wifi-Fixer.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wifi-Fixer.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Wifi-Fixer.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +68,7 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="Wifi-Fixer" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="install" type="c8890929:TasksNode$1" />
+                <item name="other" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -61,24 +81,26 @@
     <session id="1156221910">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="24" />
+          <entry key="project.closed" value="28" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.24" value="2" />
-          <entry key="project.open.time.25" value="2" />
-          <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.29" value="3" />
+          <entry key="project.open.time.25" value="3" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.29" value="4" />
           <entry key="project.open.time.31" value="3" />
           <entry key="project.open.time.32" value="4" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.52" value="2" />
           <entry key="project.open.time.53" value="2" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="29" />
+          <entry key="project.opened" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -117,7 +139,7 @@
     <favorites_list name="Wifi-Fixer" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -1038,9 +1060,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6141467725239" />
+        <entry key="$PROJECT_DIR$" value="6142223217922" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="35993678" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="1224711703" />
         <entry key="$PROJECT_DIR$/gradle.properties" value="2355514903" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="3507066341" />
       </map>
@@ -1411,17 +1433,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Wifi-Fixer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1433,14 +1444,25 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Wifi-Fixer" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="TF_FMT" value="true" />
     <property name="android.profiler.active" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536183284643" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536811238772" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.39885056" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -1569,7 +1591,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1892" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49903288" visible="true" weight="0.21190606" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49903288" visible="true" weight="0.2117904" />
       <window_info id="Structure" order="1" sideWeight="0.50096714" side_tool="true" weight="0.23086053" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" sideWeight="0.50096714" side_tool="true" weight="0.23086053" />
@@ -1586,13 +1608,13 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49970326" weight="0.3294423" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4751502" weight="0.24972618" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.47379914" visible="true" weight="0.24972618" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
-      <window_info anchor="bottom" id="Android Profiler" order="9" sideWeight="0.4967359" weight="0.32814527" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" sideWeight="0.4967359" weight="0.32814527" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.52211905" side_tool="true" visible="true" weight="0.40744796" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5262009" side_tool="true" visible="true" weight="0.24972618" />
       <window_info anchor="bottom" id="Logcat" order="12" sideWeight="0.49481156" weight="0.3274918" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="13" sideWeight="0.47788092" visible="true" weight="0.40744796" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.47598255" weight="0.40744796" />
       <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.48367953" weight="0.32814527" />
       <window_info anchor="bottom" id="Gradle View" order="15" sideWeight="0.49972692" weight="0.32968238" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1601,7 +1623,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" sideWeight="0.49913943" weight="0.32843935" />
+      <window_info anchor="right" id="Gradle" order="6" sideWeight="0.49913943" weight="0.32805678" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="sbt" order="9" />
