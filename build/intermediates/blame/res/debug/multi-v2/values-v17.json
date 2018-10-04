@@ -4,18 +4,7 @@
             "outputFile": "C:\\Users\\ewens.HGSC\\Documents\\GitHub\\Wifi-Fixer\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ewens.HGSC\\.gradle\\caches\\transforms-1\\files-1.1\\preference-1.0.0-rc01.aar\\ed47063e01a74c75336aebc848ae5091\\res\\values-v17\\values-v17.xml",
-                    "from": {
-                        "startLines": "2,7,11",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,280,441",
-                        "endLines": "6,10,14",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "275,436,604"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ewens.HGSC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\d4f10be74b40768eec4a71cffdcb2d3e\\res\\values-v17\\values-v17.xml",
+                    "source": "C:\\Users\\ewens.HGSC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\7cf0c89f9d89f39bec89c303ac9610cf\\res\\values-v17\\values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -31,6 +20,17 @@
                         "endLines": "17,21,24,27,30,34,37,41,45,49,52,55,58,62,65,69,73",
                         "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
                         "endOffsets": "777,1005,1163,1313,1485,1710,1880,2108,2332,2574,2745,2919,3088,3361,3561,3765,4094"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ewens.HGSC\\.gradle\\caches\\transforms-1\\files-1.1\\preference-1.0.0-rc01.aar\\4c9afb666de01df52afcb411e2b20c45\\res\\values-v17\\values-v17.xml",
+                    "from": {
+                        "startLines": "2,7,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,280,441",
+                        "endLines": "6,10,14",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "275,436,604"
                     }
                 }
             ]
