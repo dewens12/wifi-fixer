@@ -17,6 +17,7 @@
   -->
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/widget_target"
     android:layout_width="58dp"
     android:layout_height="58dp"
@@ -30,5 +31,6 @@
         android:alpha=".90"
         android:background="@drawable/boxbg"
         android:contentDescription="TODO"
-        android:src="@drawable/largesignal" />
+        android:src="@drawable/largesignal"
+        tools:targetApi="honeycomb" />
 </LinearLayout>

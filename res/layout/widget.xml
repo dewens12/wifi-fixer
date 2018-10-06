@@ -35,7 +35,8 @@
         android:alpha=".90"
         android:fadingEdge="vertical"
         android:contentDescription="TODO"
-        android:src="@drawable/largesignal" />
+        android:src="@drawable/largesignal"
+        tools:targetApi="honeycomb" />
 
     <TextView
         android:id="@+id/ssid"

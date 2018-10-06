@@ -28,7 +28,8 @@
     android:gravity="center"
     android:minHeight="200dp"
     android:minWidth="400dp"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    tools:targetApi="honeycomb">
 
     <TextView
         android:id="@+id/network_name"
@@ -53,7 +54,8 @@
         android:inputType="textPassword"
         android:password="true"
         android:singleLine="true"
-        tools:ignore="Deprecated">
+        tools:ignore="Deprecated"
+        tools:targetApi="cupcake">
 
         <requestFocus />
     </EditText>
@@ -64,6 +66,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:alpha="30"
-        android:text="@string/add" />
+        android:text="@string/add"
+        tools:targetApi="honeycomb" />
 
 </LinearLayout>

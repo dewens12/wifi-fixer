@@ -19,12 +19,14 @@
   -->
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:alpha=".8"
     android:background="@drawable/boxbg"
     android:orientation="vertical"
-    android:padding="@dimen/status_padding">
+    android:padding="@dimen/status_padding"
+    tools:targetApi="honeycomb">
 
     <TextView
         android:id="@+id/SSID"
@@ -47,7 +49,8 @@
         android:adjustViewBounds="true"
         android:scaleType="fitCenter"
         android:contentDescription="TODO"
-        android:src="@drawable/icon" />
+        android:src="@drawable/icon"
+        tools:targetApi="donut" />
 
     <TextView
         android:id="@+id/signal"

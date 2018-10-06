@@ -26,7 +26,7 @@ buildscript {
 
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.3.0-alpha13'
+
         classpath 'com.android.tools.build:gradle:3.2.0'
 
     }
@@ -36,11 +36,11 @@ apply plugin: 'com.android.application'
 
 repositories {
     mavenCentral()
+    google()
     jcenter()
     maven {
         url "https://jitpack.io"
     }
-    google()
 
 }
 
@@ -103,8 +103,8 @@ android {
     compileSdkVersion 28
     buildToolsVersion '28.0.3'
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility 1.8
+        targetCompatibility 1.8
     }
     lintOptions {
         checkReleaseBuilds false

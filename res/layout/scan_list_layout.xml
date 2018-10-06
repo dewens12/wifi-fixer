@@ -19,6 +19,7 @@
   -->
 
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/RelativeLayout1"
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
@@ -50,7 +51,8 @@
         android:layout_toStartOf="@+id/SECURE_ICON"
         android:gravity="right"
         android:contentDescription="TODO"
-        android:src="@drawable/icon" />
+        android:src="@drawable/icon"
+        tools:targetApi="donut" />
 
     <ImageView
         android:id="@+id/SECURE_ICON"
@@ -63,7 +65,8 @@
         android:layout_toStartOf="@+id/encryption"
         android:gravity="right"
         android:contentDescription="TODO"
-        android:src="@drawable/icon" />
+        android:src="@drawable/icon"
+        tools:targetApi="donut" />
 
     <TextView
         android:id="@+id/encryption"

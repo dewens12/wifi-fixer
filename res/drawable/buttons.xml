@@ -19,12 +19,14 @@
   -->
 
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:innerRadius="0dp"
     android:innerRadiusRatio="8"
     android:shape="ring"
     android:thickness="15dp"
     android:thicknessRatio="3.147"
-    android:useLevel="false">
+    android:useLevel="false"
+    tools:targetApi="cupcake">
     <size
         android:width="32dp"
         android:height="32dp" />

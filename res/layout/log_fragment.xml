@@ -25,7 +25,8 @@
     android:layout_height="fill_parent"
     android:alpha=".95"
     android:background="@drawable/boxbg"
-    android:padding="@dimen/status_padding">
+    android:padding="@dimen/status_padding"
+    tools:targetApi="honeycomb">
 
     <ScrollView
         android:id="@+id/SCROLLER"

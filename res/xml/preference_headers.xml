@@ -18,13 +18,15 @@
   ~        along with this program.  If not, see http://www.gnu.org/licenses
   -->
 
-<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
 
     <header
         android:fragment="org.wahtod.wififixer.ui.PrefActivity$SettingsFragment"
         android:icon="@drawable/ic_menu_manage"
         android:key="prefscreen"
-        android:title="Service">
+        android:title="Service"
+        tools:targetApi="honeycomb">
         <extra
             android:name="resource"
             android:value="general" />
@@ -33,7 +35,8 @@
         android:fragment="org.wahtod.wififixer.ui.PrefActivity$SettingsFragment"
         android:icon="@drawable/ic_menu_notifications"
         android:key="prefscreen"
-        android:title="Notification">
+        android:title="Notification"
+        tools:targetApi="honeycomb">
         <extra
             android:name="resource"
             android:value="notification" />
@@ -42,7 +45,8 @@
         android:fragment="org.wahtod.wififixer.ui.PrefActivity$SettingsFragment"
         android:icon="@drawable/ic_menu_help"
         android:key="prefscreen"
-        android:title="@string/help">
+        android:title="@string/help"
+        tools:targetApi="honeycomb">
         <extra
             android:name="resource"
             android:value="help" />
@@ -51,7 +55,8 @@
         android:fragment="org.wahtod.wififixer.ui.PrefActivity$SettingsFragment"
         android:icon="@drawable/cog"
         android:key="prefscreen"
-        android:title="Widget">
+        android:title="Widget"
+        tools:targetApi="honeycomb">
         <extra
             android:name="resource"
             android:value="widget" />
@@ -60,7 +65,8 @@
         android:fragment="org.wahtod.wififixer.ui.PrefActivity$SettingsFragment"
         android:icon="@drawable/ic_menu_save"
         android:key="prefscreen"
-        android:title="Logging">
+        android:title="Logging"
+        tools:targetApi="honeycomb">
         <extra
             android:name="resource"
             android:value="logging" />
@@ -69,7 +75,8 @@
         android:fragment="org.wahtod.wififixer.ui.PrefActivity$SettingsFragment"
         android:icon="@drawable/ic_menu_add"
         android:key="prefscreen"
-        android:title="Advanced">
+        android:title="Advanced"
+        tools:targetApi="honeycomb">
         <extra
             android:name="resource"
             android:value="advanced" />
