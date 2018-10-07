@@ -61,16 +61,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="223b9286-4769-4fb6-8d53-fe8e5caa997c" name="Default Changelist" comment="Default Changelist&#10;Java 1.8 ver 181">
+    <list default="true" id="223b9286-4769-4fb6-8d53-fe8e5caa997c" name="Default Changelist" comment="Default Changelist&#10;Java 1.8 ver 181&#10;&#10;Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;">
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wifi-Fixer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Wifi-Fixer.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/xml_preference_headers.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/xml_preference_headers.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -96,17 +92,6 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="Wifi-Fixer" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Wifi-Fixer" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Wifi-Fixer" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="other" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -167,17 +152,7 @@
     <favorites_list name="Wifi-Fixer" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="gradle-wrapper.properties" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="107" selection-start-line="5" selection-start-column="107" selection-end-line="5" selection-end-column="107" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -200,7 +175,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\ewens.HGSC\.gradle\wrapper\dists\gradle-5.0-20181003235833+0000-all\a5h7xo0u670ocf4yabvhinrzk\gradle-5.0-20181003235833+0000" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\ewens.HGSC\.gradle\wrapper\dists\gradle-5.0-20181006000000+0000-all\dogsk506cx81ee44uehp3cg0b\gradle-5.0-20181006000000+0000" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -1200,157 +1175,157 @@
               <option name="name" value="Wifi-Fixer" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/announce" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/antlr" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/base-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/base-services-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/build-cache" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/build-cache-http" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/build-comparison" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/build-init" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/build-option" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/cli" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/code-quality" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/composite-builds" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/core" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/core-api" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/dependency-management" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/diagnostics" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/docs" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/ear" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/files" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/ide" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/ide-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/ide-play" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/installation-beacon" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/internal-android-performance-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/internal-integ-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/internal-performance-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/internal-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/ivy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/jacoco" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/javascript" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/jvm-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/language-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/language-java" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/language-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/language-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/language-scala" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/launcher" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/logging" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/maven" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/messaging" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/model-core" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/model-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/osgi" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/persistent-cache" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/platform-base" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/platform-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/platform-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/platform-play" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/plugin-development" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/plugin-use" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/plugins" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/process-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/publish" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/reporting" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/resources" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/resources-gcs" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/resources-http" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/resources-s3" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/resources-sftp" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/scala" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/signing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/test-kit" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/testing-base" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/testing-junit-platform" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/testing-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/testing-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/tooling-api" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/tooling-api-builders" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/tooling-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/version-control" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/workers" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/src/wrapper" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/ant-1.9.13.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/ant-launcher-1.9.13.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-api-metadata-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-base-services-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-base-services-groovy-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-build-cache-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-build-option-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-cli-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-core-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-core-api-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-docs-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-files-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-installation-beacon-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-jvm-services-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-kotlin-dsl-1.0-rc-12.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-kotlin-dsl-provider-plugins-1.0-rc-12.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-kotlin-dsl-tooling-builders-1.0-rc-12.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-kotlin-dsl-tooling-models-1.0-rc-12.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-launcher-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-logging-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-messaging-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-model-core-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-model-groovy-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-native-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-persistent-cache-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-process-services-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-resources-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-runtime-api-info-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-tooling-api-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/gradle-wrapper-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-announce-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-antlr-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-build-cache-http-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-build-comparison-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-build-init-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-code-quality-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-composite-builds-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-dependency-management-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-diagnostics-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-ear-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-ide-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-ide-native-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-ide-play-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-ivy-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-jacoco-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-javascript-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-language-groovy-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-language-java-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-language-jvm-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-language-native-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-language-scala-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-maven-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-osgi-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-platform-base-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-platform-jvm-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-platform-native-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-platform-play-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-plugin-development-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-plugin-use-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-plugins-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-publish-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-reporting-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-resources-gcs-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-resources-http-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-resources-s3-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-resources-sftp-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-scala-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-signing-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-test-kit-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-testing-base-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-testing-junit-platform-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-testing-jvm-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-testing-native-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-tooling-api-builders-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-tooling-native-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-version-control-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/gradle-workers-5.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181003235833+0000-all/a5h7xo0u670ocf4yabvhinrzk/gradle-5.0-20181003235833+0000/lib/plugins/ivy-2.3.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/build-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/build-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/build-option" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/core-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/docs" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/files" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/persistent-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/resources-gcs" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/testing-junit-platform" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/tooling-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/version-control" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/workers" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/ant-1.9.13.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/ant-launcher-1.9.13.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-api-metadata-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-base-services-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-base-services-groovy-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-build-cache-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-build-option-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-cli-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-core-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-core-api-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-docs-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-files-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-installation-beacon-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-jvm-services-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-kotlin-dsl-1.0-rc-12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-kotlin-dsl-provider-plugins-1.0-rc-12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-kotlin-dsl-tooling-builders-1.0-rc-12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-kotlin-dsl-tooling-models-1.0-rc-12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-launcher-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-logging-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-messaging-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-model-core-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-model-groovy-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-native-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-persistent-cache-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-process-services-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-resources-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-runtime-api-info-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-tooling-api-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/gradle-wrapper-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-announce-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-antlr-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-build-cache-http-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-build-comparison-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-build-init-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-code-quality-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-composite-builds-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-dependency-management-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-diagnostics-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-ear-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-ide-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-ide-native-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-ide-play-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-ivy-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-jacoco-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-javascript-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-language-groovy-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-language-java-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-language-jvm-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-language-native-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-language-scala-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-maven-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-osgi-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-platform-base-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-platform-jvm-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-platform-native-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-platform-play-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-plugin-development-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-plugin-use-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-plugins-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-publish-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-reporting-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-resources-gcs-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-resources-http-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-resources-s3-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-resources-sftp-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-scala-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-signing-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-test-kit-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-testing-base-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-testing-junit-platform-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-testing-jvm-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-testing-native-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-tooling-api-builders-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-tooling-native-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-version-control-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/gradle-workers-5.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-20181006000000+0000-all/dogsk506cx81ee44uehp3cg0b/gradle-5.0-20181006000000+0000/lib/plugins/ivy-2.3.0.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -1388,6 +1363,18 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Wifi-Fixer" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1398,18 +1385,6 @@
             <path>
               <item name="Wifi-Fixer" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Wifi-Fixer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
@@ -1518,8 +1493,8 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="Android.Gradle.BeforeRunTask" enabled="false" />
         <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1527,23 +1502,6 @@
       <method>
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="Wifi-Fixer [buildNeeded]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="buildNeeded" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
     </configuration>
     <configuration name="Wifi-Fixer [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -1613,6 +1571,23 @@
         <option name="vmOptions" />
       </ExternalSystemSettings>
     </configuration>
+    <configuration name="Wifi-Fixer [uninstallDebug]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="uninstallDebug" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -1647,18 +1622,18 @@
     <list>
       <item itemvalue="Android App.Wifi-fixer" />
       <item itemvalue="Gradle.Wifi-Fixer [installDebug]" />
-      <item itemvalue="Gradle.Wifi-Fixer [buildNeeded]" />
       <item itemvalue="Gradle.Wifi-Fixer [clean]" />
       <item itemvalue="Gradle.Wifi-Fixer [lint]" />
       <item itemvalue="Gradle.Wifi-Fixer [uninstallDebugAndroidTest]" />
+      <item itemvalue="Gradle.Wifi-Fixer [uninstallDebug]" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.Wifi-Fixer [installDebug]" />
+        <item itemvalue="Gradle.Wifi-Fixer [uninstallDebug]" />
         <item itemvalue="Gradle.Wifi-Fixer [uninstallDebugAndroidTest]" />
         <item itemvalue="Gradle.Wifi-Fixer [lint]" />
         <item itemvalue="Gradle.Wifi-Fixer [clean]" />
-        <item itemvalue="Gradle.Wifi-Fixer [buildNeeded]" />
       </list>
     </recent_temporary>
   </component>
@@ -1806,7 +1781,14 @@
       <option name="project" value="LOCAL" />
       <updated>1538812730968</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Default Changelist&#10;Java 1.8 ver 181&#10;&#10;Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;">
+      <created>1538814563308</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1538814563308</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1820,45 +1802,45 @@
   <component name="ToolWindowManager">
     <frame x="202" y="45" width="1598" height="962" extended-state="0" />
     <layout>
-      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Build Variants" order="3" side_tool="true" weight="0.32964888" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5416125" side_tool="true" visible="true" weight="0.30843374" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.52470744" side_tool="true" visible="true" weight="0.30843374" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49414825" weight="0.32771084" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.47854355" weight="0.33493975" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4949431" weight="0.3282532" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.48439533" weight="0.3253012" />
-      <window_info anchor="bottom" id="Logcat" order="10" sideWeight="0.49620733" weight="0.3270809" />
+      <window_info anchor="bottom" id="Logcat" order="10" sideWeight="0.49544865" weight="0.32650602" />
       <window_info id="Captures" order="6" side_tool="true" weight="0.2496749" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30429128" />
-      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.45838752" visible="true" weight="0.30843374" />
-      <window_info anchor="bottom" id="Inspection Results" sideWeight="0.4993679" weight="0.32942554" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.4752926" visible="true" weight="0.30843374" />
       <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.2496749" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.2496749" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="5" side_tool="true" weight="0.32964888" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Android WiFi ADB" order="10" weight="0.32977208" />
       <window_info anchor="bottom" id="Gradle Metric" order="16" sideWeight="0.49928775" weight="0.32971016" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="VersionChecker" order="15" sideWeight="0.4985755" weight="0.32971016" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Android Builder" order="12" weight="0.32977208" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" sideWeight="0.4993679" weight="0.32942554" />
       <window_info anchor="bottom" id="Gradle View" order="14" sideWeight="0.485755" weight="0.32850242" />
       <window_info anchor="right" id="Drawable Viewer" order="9" />
       <window_info anchor="bottom" id="Messages" order="13" />
-      <window_info anchor="bottom" id="VersionChecker" order="15" sideWeight="0.4985755" weight="0.32971016" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="ADC" order="11" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Assistant" order="5" visible="true" weight="0.48290598" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -1905,7 +1887,8 @@
     <MESSAGE value="Java 10.1&#10;Gradle 5.0&#10;Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;" />
     <MESSAGE value="Java 1.8 ver181&#10;Gradle 5.0&#10;Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;" />
     <MESSAGE value="Default Changelist&#10;Java 1.8 ver 181" />
-    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist&#10;Java 1.8 ver 181" />
+    <MESSAGE value="Default Changelist&#10;Java 1.8 ver 181&#10;&#10;Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist&#10;Java 1.8 ver 181&#10;&#10;Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
