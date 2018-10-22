@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/2668662cc5c2a09f8acf6c3cf0bae07e/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/5624b301cfc052691f7a82b605cc2b43/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/2668662cc5c2a09f8acf6c3cf0bae07e/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/2668662cc5c2a09f8acf6c3cf0bae07e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/5624b301cfc052691f7a82b605cc2b43/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/5624b301cfc052691f7a82b605cc2b43/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

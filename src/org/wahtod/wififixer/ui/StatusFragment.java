@@ -18,6 +18,7 @@
 
 package org.wahtod.wififixer.ui;
 
+import android.annotation.SuppressLint;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
@@ -42,12 +43,15 @@ import org.wahtod.wififixer.utility.StatusMessage;
 import org.wahtod.wififixer.utility.StringUtil;
 
 import java.lang.ref.WeakReference;
+import java.util.Objects;
 
 import androidx.fragment.app.Fragment;
 
+import static org.wahtod.wififixer.R.layout.abc_cascading_menu_item_layout;
+
 public class StatusFragment extends Fragment {
-    protected static final int REFRESH = 0;
-    protected static final int REFRESH_DELAY = 5000;
+    private static final int REFRESH = 0;
+    private static final int REFRESH_DELAY = 5000;
     private static final int STATUS_MESSAGE = 337;
     private static final String EMPTYSTRING = "";
     private static final String DBM = "dBm";
@@ -116,34 +120,32 @@ public class StatusFragment extends Fragment {
             return null;
     }
 
-    @Override
+
     public void onCreate(Bundle savedInstanceState) {
         self = new WeakReference<>(this);
         super.onCreate(savedInstanceState);
     }
 
-    @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                             Bundle savedInstanceState) {
-        View v = inflater.inflate(R.layout.status, null);
+
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
+    {  View v = inflater.inflate(R.layout.status, null);
         _views = new ViewHolder(v);
         return v;
     }
 
-    @Override
     public void onDestroyView() {
         _views = null;
         super.onDestroyView();
     }
 
-    @Override
+
     public void onPause() {
         unregisterReceiver();
         drawhandler.removeMessages(REFRESH);
         super.onPause();
     }
 
-    @Override
+
     public void onResume() {
         registerReceiver();
         super.onResume();
@@ -154,7 +156,7 @@ public class StatusFragment extends Fragment {
         WifiInfo info = getNetwork(getContext());
 
         if (info == null) {
-            _views.setSsid(getContext().getString(R.string.wifi_is_disabled));
+            _views.setSsid(Objects.requireNonNull(getContext()).getString(R.string.wifi_is_disabled));
             _views.setSignal(EMPTYSTRING);
             _views.setLinkspeed(EMPTYSTRING);
             _views.setStatus(EMPTYSTRING);

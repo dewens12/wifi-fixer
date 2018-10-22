@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\admewens\\Documents\\GitHub\\Wifi-Fixer\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nl\\values-nl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\admewens\\.gradle\\caches\\transforms-1\\files-1.1\\preference-1.0.0-rc01.aar\\2af56e94b3f3f47a50bae7060542635e\\res\\values-nl\\values-nl.xml",
+                    "source": "C:\\Users\\admewens\\.gradle\\caches\\transforms-1\\files-1.1\\preference-1.0.0-rc01.aar\\19a948f7ec97e25d5336ffd005215c28\\res\\values-nl\\values-nl.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\admewens\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\c3acdd3baa5b81ed7f57e4cb9dd72c1c\\res\\values-nl\\values-nl.xml",
+                    "source": "C:\\Users\\admewens\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\a6840c5bdaf889884d998108a4b79d5c\\res\\values-nl\\values-nl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\admewens\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\c2864e0b448e6afe1788851d42ee47e7\\res\\values-nl\\values-nl.xml",
+                    "source": "C:\\Users\\admewens\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\dcaa544c2bc9a85e50d49465f7103567\\res\\values-nl\\values-nl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
