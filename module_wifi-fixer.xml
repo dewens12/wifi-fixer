@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_wifi-fixer" default="compile.module.wifi-fixer">
+    <dirname file="${ant.file.module_wifi-fixer}" property="module.wifi-fixer.basedir" />
+
+    <property name="module.jdk.home.wifi-fixer" value="${project.jdk.home}" />
+    <property name="module.jdk.bin.wifi-fixer" value="${project.jdk.bin}" />
+    <property name="module.jdk.classpath.wifi-fixer" value="${project.jdk.classpath}" />
+
+    <property name="compiler.args.wifi-fixer"
+        value="-encoding UTF-8 -source 8 -target 8 ${compiler.args}" />
+
+    <property name="wifi-fixer.output.dir"
+        value="${module.wifi-fixer.basedir}/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes" />
+    <property name="wifi-fixer.testoutput.dir"
+        value="${module.wifi-fixer.basedir}/build/intermediates/javac/debugUnitTest/compileDebugUnitTestJavaWithJavac/classes" />
+
+    <path id="wifi-fixer.module.bootclasspath">
+        <!-- Paths to be included in compilation bootclasspath -->
+    </path>
+
+    <path id="wifi-fixer.module.production.classpath">
+        <path refid="${module.jdk.classpath.wifi-fixer}" />
+        <path refid="library.gradle:_androidx.arch.core:core-runtime-2.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.interpolator:interpolator-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.fragment:fragment-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.appcompat:appcompat-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.print:print-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.annotation:annotation:1.0.0-rc01@jar.classpath" />
+        <path refid="library.gradle:_androidx.customview:customview-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.vectordrawable:vectordrawable-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_com.google.android.material:material-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.lifecycle:lifecycle-livedata-core-2.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.preference:preference-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.legacy:legacy-support-core-utils-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.drawerlayout:drawerlayout-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.coordinatorlayout:coordinatorlayout-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.arch.core:core-common:2.0.0-rc01@jar.classpath" />
+        <path refid="library.gradle:_androidx.media:media-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.vectordrawable:vectordrawable-animated-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.documentfile:documentfile-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.swiperefreshlayout:swiperefreshlayout-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.asynclayoutinflater:asynclayoutinflater-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.recyclerview:recyclerview-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.transition:transition-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.lifecycle:lifecycle-common:2.0.0-rc01@jar.classpath" />
+        <path refid="library.gradle:_androidx.collection:collection:1.0.0-rc01@jar.classpath" />
+        <path
+            refid="library.gradle:_androidx.versionedparcelable:versionedparcelable-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.legacy:legacy-support-v13-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.slidingpanelayout:slidingpanelayout-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.core:core-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.lifecycle:lifecycle-viewmodel-2.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.viewpager:viewpager-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.cursoradapter:cursoradapter-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.localbroadcastmanager:localbroadcastmanager-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.legacy:legacy-support-core-ui-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.loader:loader-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.cardview:cardview-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.lifecycle:lifecycle-runtime-2.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.legacy:legacy-support-v4-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_android-android-28.classpath" />
+    </path>
+
+    <path id="wifi-fixer.runtime.production.module.classpath">
+        <pathelement location="${wifi-fixer.output.dir}" />
+        <path refid="library.gradle:_androidx.arch.core:core-runtime-2.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.interpolator:interpolator-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.fragment:fragment-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.appcompat:appcompat-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.print:print-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.annotation:annotation:1.0.0-rc01@jar.classpath" />
+        <path refid="library.gradle:_androidx.customview:customview-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.vectordrawable:vectordrawable-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_com.google.android.material:material-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.lifecycle:lifecycle-livedata-core-2.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.preference:preference-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.legacy:legacy-support-core-utils-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.drawerlayout:drawerlayout-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.coordinatorlayout:coordinatorlayout-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.arch.core:core-common:2.0.0-rc01@jar.classpath" />
+        <path refid="library.gradle:_androidx.media:media-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.vectordrawable:vectordrawable-animated-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.documentfile:documentfile-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.swiperefreshlayout:swiperefreshlayout-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.asynclayoutinflater:asynclayoutinflater-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.recyclerview:recyclerview-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.transition:transition-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.lifecycle:lifecycle-common:2.0.0-rc01@jar.classpath" />
+        <path refid="library.gradle:_androidx.collection:collection:1.0.0-rc01@jar.classpath" />
+        <path
+            refid="library.gradle:_androidx.versionedparcelable:versionedparcelable-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.legacy:legacy-support-v13-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.slidingpanelayout:slidingpanelayout-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.core:core-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.lifecycle:lifecycle-viewmodel-2.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.viewpager:viewpager-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.cursoradapter:cursoradapter-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.localbroadcastmanager:localbroadcastmanager-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.legacy:legacy-support-core-ui-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.loader:loader-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.cardview:cardview-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.lifecycle:lifecycle-runtime-2.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.legacy:legacy-support-v4-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_android-android-28.classpath" />
+    </path>
+
+    <path id="wifi-fixer.module.classpath">
+        <path refid="${module.jdk.classpath.wifi-fixer}" />
+        <pathelement location="${wifi-fixer.output.dir}" />
+        <path refid="library.gradle:_androidx.arch.core:core-runtime-2.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.interpolator:interpolator-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.fragment:fragment-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.appcompat:appcompat-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.print:print-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.annotation:annotation:1.0.0-rc01@jar.classpath" />
+        <path refid="library.gradle:_androidx.customview:customview-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.vectordrawable:vectordrawable-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_com.google.android.material:material-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.lifecycle:lifecycle-livedata-core-2.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.preference:preference-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.legacy:legacy-support-core-utils-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.drawerlayout:drawerlayout-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.coordinatorlayout:coordinatorlayout-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.arch.core:core-common:2.0.0-rc01@jar.classpath" />
+        <path refid="library.gradle:_androidx.media:media-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.vectordrawable:vectordrawable-animated-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.documentfile:documentfile-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.swiperefreshlayout:swiperefreshlayout-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.asynclayoutinflater:asynclayoutinflater-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.recyclerview:recyclerview-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.transition:transition-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.lifecycle:lifecycle-common:2.0.0-rc01@jar.classpath" />
+        <path refid="library.gradle:_androidx.collection:collection:1.0.0-rc01@jar.classpath" />
+        <path
+            refid="library.gradle:_androidx.versionedparcelable:versionedparcelable-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.legacy:legacy-support-v13-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.slidingpanelayout:slidingpanelayout-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.core:core-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.lifecycle:lifecycle-viewmodel-2.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.viewpager:viewpager-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.cursoradapter:cursoradapter-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.localbroadcastmanager:localbroadcastmanager-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.legacy:legacy-support-core-ui-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.loader:loader-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.cardview:cardview-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.lifecycle:lifecycle-runtime-2.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.legacy:legacy-support-v4-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_android-android-28.classpath" />
+    </path>
+
+    <path id="wifi-fixer.runtime.module.classpath">
+        <pathelement location="${wifi-fixer.testoutput.dir}" />
+        <pathelement location="${wifi-fixer.output.dir}" />
+        <path refid="library.gradle:_androidx.arch.core:core-runtime-2.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.interpolator:interpolator-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.fragment:fragment-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.appcompat:appcompat-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.print:print-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.annotation:annotation:1.0.0-rc01@jar.classpath" />
+        <path refid="library.gradle:_androidx.customview:customview-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.vectordrawable:vectordrawable-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_com.google.android.material:material-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.lifecycle:lifecycle-livedata-core-2.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.preference:preference-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.legacy:legacy-support-core-utils-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.drawerlayout:drawerlayout-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.coordinatorlayout:coordinatorlayout-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.arch.core:core-common:2.0.0-rc01@jar.classpath" />
+        <path refid="library.gradle:_androidx.media:media-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.vectordrawable:vectordrawable-animated-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.documentfile:documentfile-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.swiperefreshlayout:swiperefreshlayout-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.asynclayoutinflater:asynclayoutinflater-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.recyclerview:recyclerview-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.transition:transition-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.lifecycle:lifecycle-common:2.0.0-rc01@jar.classpath" />
+        <path refid="library.gradle:_androidx.collection:collection:1.0.0-rc01@jar.classpath" />
+        <path
+            refid="library.gradle:_androidx.versionedparcelable:versionedparcelable-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.legacy:legacy-support-v13-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.slidingpanelayout:slidingpanelayout-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.core:core-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.lifecycle:lifecycle-viewmodel-2.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.viewpager:viewpager-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.cursoradapter:cursoradapter-1.0.0-rc01.classpath" />
+        <path
+            refid="library.gradle:_androidx.localbroadcastmanager:localbroadcastmanager-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.legacy:legacy-support-core-ui-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.loader:loader-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.cardview:cardview-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.lifecycle:lifecycle-runtime-2.0.0-rc01.classpath" />
+        <path refid="library.gradle:_androidx.legacy:legacy-support-v4-1.0.0-rc01.classpath" />
+        <path refid="library.gradle:_android-android-28.classpath" />
+    </path>
+
+
+    <patternset id="excluded.from.module.wifi-fixer">
+        <patternset refid="ignored.files" />
+    </patternset>
+
+    <patternset id="excluded.from.compilation.wifi-fixer">
+        <patternset refid="excluded.from.module.wifi-fixer" />
+    </patternset>
+
+    <path id="wifi-fixer.module.sourcepath">
+        <dirset dir="${module.wifi-fixer.basedir}">
+            <include name="build/generated/source/apt/debug" />
+            <include
+                name="build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r" />
+            <include name="build/generated/source/buildConfig/debug" />
+            <include name="build/generated/source/rs/debug" />
+            <include name="build/generated/res/rs/debug" />
+            <include name="build/generated/res/resValues/debug" />
+            <include name="res" />
+            <include name="src" />
+            <include name="assets" />
+            <include name="src" />
+        </dirset>
+    </path>
+
+    <path id="wifi-fixer.module.test.sourcepath">
+        <dirset dir="${module.wifi-fixer.basedir}">
+            <include name="build/generated/source/apt/androidTest/debug" />
+            <include
+                name="build/generated/not_namespaced_r_class_sources/debugAndroidTest/processDebugAndroidTestResources/r" />
+            <include name="build/generated/source/buildConfig/androidTest/debug" />
+            <include name="build/generated/source/rs/androidTest/debug" />
+            <include name="build/generated/res/rs/androidTest/debug" />
+            <include name="build/generated/res/resValues/androidTest/debug" />
+        </dirset>
+    </path>
+
+
+    <target name="compile.module.wifi-fixer"
+        depends="compile.module.wifi-fixer.production,compile.module.wifi-fixer.tests"
+        description="Compile module Wifi-Fixer" />
+
+    <target name="compile.module.wifi-fixer.production" depends="register.custom.compilers"
+        description="Compile module Wifi-Fixer; production classes">
+        <mkdir dir="${wifi-fixer.output.dir}" />
+        <javac2 debug="${compiler.debug}" destdir="${wifi-fixer.output.dir}"
+            executable="${module.jdk.bin.wifi-fixer}/javac" fork="true"
+            memorymaximumsize="${compiler.max.memory}" nowarn="${compiler.generate.no.warnings}">
+            <compilerarg line="${compiler.args.wifi-fixer}" />
+            <bootclasspath refid="wifi-fixer.module.bootclasspath" />
+            <classpath refid="wifi-fixer.module.production.classpath" />
+            <src refid="wifi-fixer.module.sourcepath" />
+            <patternset refid="excluded.from.compilation.wifi-fixer" />
+        </javac2>
+
+        <copy todir="${wifi-fixer.output.dir}">
+            <fileset dir="${module.wifi-fixer.basedir}/build/generated/source/apt/debug">
+                <patternset refid="compiler.resources" />
+                <type type="file" />
+            </fileset>
+            <fileset
+                dir="${module.wifi-fixer.basedir}/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r">
+                <patternset refid="compiler.resources" />
+                <type type="file" />
+            </fileset>
+            <fileset dir="${module.wifi-fixer.basedir}/build/generated/source/buildConfig/debug">
+                <patternset refid="compiler.resources" />
+                <type type="file" />
+            </fileset>
+            <fileset dir="${module.wifi-fixer.basedir}/build/generated/source/rs/debug">
+                <patternset refid="compiler.resources" />
+                <type type="file" />
+            </fileset>
+            <fileset dir="${module.wifi-fixer.basedir}/build/generated/res/rs/debug">
+                <patternset refid="compiler.resources" />
+                <type type="file" />
+            </fileset>
+            <fileset dir="${module.wifi-fixer.basedir}/build/generated/res/resValues/debug">
+                <patternset refid="compiler.resources" />
+                <type type="file" />
+            </fileset>
+            <fileset dir="${module.wifi-fixer.basedir}/res">
+                <patternset refid="compiler.resources" />
+                <type type="file" />
+            </fileset>
+            <fileset dir="${module.wifi-fixer.basedir}/src">
+                <patternset refid="compiler.resources" />
+                <type type="file" />
+            </fileset>
+            <fileset dir="${module.wifi-fixer.basedir}/assets">
+                <patternset refid="compiler.resources" />
+                <type type="file" />
+            </fileset>
+            <fileset dir="${module.wifi-fixer.basedir}/src">
+                <patternset refid="compiler.resources" />
+                <type type="file" />
+            </fileset>
+        </copy>
+    </target>
+
+    <target name="compile.module.wifi-fixer.tests"
+        depends="register.custom.compilers,compile.module.wifi-fixer.production"
+        description="compile module Wifi-Fixer; test classes" unless="skip.tests">
+        <mkdir dir="${wifi-fixer.testoutput.dir}" />
+        <javac2 debug="${compiler.debug}" destdir="${wifi-fixer.testoutput.dir}"
+            executable="${module.jdk.bin.wifi-fixer}/javac" fork="true"
+            memorymaximumsize="${compiler.max.memory}" nowarn="${compiler.generate.no.warnings}">
+            <compilerarg line="${compiler.args.wifi-fixer}" />
+            <bootclasspath refid="wifi-fixer.module.bootclasspath" />
+            <classpath refid="wifi-fixer.module.classpath" />
+            <src refid="wifi-fixer.module.test.sourcepath" />
+            <patternset refid="excluded.from.compilation.wifi-fixer" />
+        </javac2>
+
+        <copy todir="${wifi-fixer.testoutput.dir}">
+            <fileset
+                dir="${module.wifi-fixer.basedir}/build/generated/source/apt/androidTest/debug">
+                <patternset refid="compiler.resources" />
+                <type type="file" />
+            </fileset>
+            <fileset
+                dir="${module.wifi-fixer.basedir}/build/generated/not_namespaced_r_class_sources/debugAndroidTest/processDebugAndroidTestResources/r">
+                <patternset refid="compiler.resources" />
+                <type type="file" />
+            </fileset>
+            <fileset
+                dir="${module.wifi-fixer.basedir}/build/generated/source/buildConfig/androidTest/debug">
+                <patternset refid="compiler.resources" />
+                <type type="file" />
+            </fileset>
+            <fileset dir="${module.wifi-fixer.basedir}/build/generated/source/rs/androidTest/debug">
+                <patternset refid="compiler.resources" />
+                <type type="file" />
+            </fileset>
+            <fileset dir="${module.wifi-fixer.basedir}/build/generated/res/rs/androidTest/debug">
+                <patternset refid="compiler.resources" />
+                <type type="file" />
+            </fileset>
+            <fileset
+                dir="${module.wifi-fixer.basedir}/build/generated/res/resValues/androidTest/debug">
+                <patternset refid="compiler.resources" />
+                <type type="file" />
+            </fileset>
+        </copy>
+    </target>
+
+    <target name="clean.module.wifi-fixer" description="cleanup module">
+        <delete dir="${wifi-fixer.output.dir}" />
+        <delete dir="${wifi-fixer.testoutput.dir}" />
+    </target>
+</project>
