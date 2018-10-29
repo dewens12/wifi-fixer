@@ -68,7 +68,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11ffbf6a-e872-4ffb-90c4-632def0fb912" name="Default" comment="Java 11 JDK 1.1&#10;Gradle 5.1 nightly build&#10;4:28 pm&#10;10/29/2018&#10;&#10;Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;" />
+    <list default="true" id="11ffbf6a-e872-4ffb-90c4-632def0fb912" name="Default" comment="Java 11 JDK 1.1&#10;Gradle 5.1 nightly build&#10;4:28 pm&#10;10/29/2018&#10;&#10;Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -407,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540850583743</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Java 11 JDK 1.1&#10;Gradle 5.1 nightly build&#10;4:28 pm&#10;10/29/2018&#10;&#10;Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;">
+      <created>1540850883523</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1540850883523</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView">
@@ -422,7 +431,7 @@
   <component name="ToolWindowManager">
     <frame x="-1980" y="200" width="1400" height="1000" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -441,8 +450,8 @@
       <window_info anchor="bottom" id="Android Profiler" order="8" sideWeight="0.49850747" weight="0.3283237" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4902985" weight="0.32716763" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50820893" side_tool="true" visible="true" weight="0.32716763" />
-      <window_info anchor="bottom" id="Logcat" order="11" sideWeight="0.49179104" visible="true" weight="0.32716763" />
-      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49253732" weight="0.32716763" />
+      <window_info anchor="bottom" id="Logcat" order="11" sideWeight="0.49179104" weight="0.32716763" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" sideWeight="0.49179104" visible="true" weight="0.32716763" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49850747" weight="0.3290993" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
