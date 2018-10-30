@@ -34,7 +34,7 @@ public class About extends AppFragmentActivity {
         setContentView(R.layout.aboutcontent);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         // Set layout version code
-        setText((TextView) findViewById(R.id.version));
+        setText(findViewById(R.id.version));
     }
 
     @Override
