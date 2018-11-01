@@ -80,9 +80,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="310" />
-    <option name="y" value="30" />
+    <option name="y" value="82" />
     <option name="width" value="1458" />
-    <option name="height" value="988" />
+    <option name="height" value="965" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -399,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541042014618</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Java 11 JDK 1.1&#10;Gradle 5.1 nightly build&#10;Migrated to Andriod.X&#10;9:43 pm&#10;10/31/2018&#10;&#10;Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;">
+      <created>1541042161288</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1541042161288</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TodoView">
@@ -412,7 +419,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="248" y="24" width="1166" height="790" extended-state="0" />
+    <frame x="248" y="66" width="1166" height="772" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.3028933" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -430,10 +437,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4977612" weight="0.32953465" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.47016275" visible="true" weight="0.3109756" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.47016275" visible="true" weight="0.3197492" />
       <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" sideWeight="0.49850747" weight="0.3283237" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48880598" weight="0.32716763" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.52983725" side_tool="true" visible="true" weight="0.3109756" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.52983725" side_tool="true" visible="true" weight="0.3197492" />
       <window_info anchor="bottom" id="Logcat" order="11" sideWeight="0.4910448" weight="0.32716763" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.48955223" weight="0.32716763" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49850747" weight="0.3290993" />
