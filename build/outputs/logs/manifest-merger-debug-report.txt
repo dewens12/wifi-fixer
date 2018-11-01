@@ -1,486 +1,486 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:22:1-245:12
-INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:22:1-245:12
-INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:22:1-245:12
-MERGED from [androidx.preference:preference:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\preference-1.0.0-rc01.aar\cd34c85f540a0169dae0bdf26188c7e7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\material-1.0.0-rc01.aar\c1235ac7882c2fd99b56fad5f571835f\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-rc01.aar\ef5b8736ecef7f7251b1e03864287f99\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-rc01.aar\ec5160d27a572394be951073bba0b357\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-rc01.aar\c2cf050fec794154bfcce262c10c4f03\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-v13:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0-rc01.aar\202c3a27b4096cd917e7d1f7f456adfc\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\5f9b6aa36c325034f3bbe9b97cc5b634\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-rc01.aar\47011ac14040a6dd7caaa21259518900\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-rc01.aar\529851f0b9a9f3ad25ec3d79a81343cd\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-rc01.aar\7306e9bb2317dcc43070c7e3d2b33155\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-rc01.aar\5b0b8238a9a7e07a5c30836f31324f8c\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-rc01.aar\b39dc2b24a20a510814191c3db886607\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-rc01.aar\f8c49706607c775800192c0f7d551af5\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\b00e5c782283781b10fdc8c06ac355d1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-rc01.aar\f79c71f0fb75ff8edb82c60b2c560859\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-rc01.aar\44bb367ef68eaa7ce42c452b32f59a92\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-rc01.aar\a9b20867e8474b3ae6567aeb55850a82\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-rc01.aar\600e397b2bc9a73eac13ed1a34c6ab1c\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-rc01.aar\065db46e25a14f37a09597f9a002342b\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-rc01.aar\2213aa6b5682525bb0974b5534f0c864\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-rc01.aar\e89334d44cd4592cf01d07d68e6cd4fd\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\2ca3c787ddb32ee6fcb57cc5fd8501fe\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\fafad3da081cc5f35abc3ff023da5fdb\AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-rc01.aar\91cd390ccc1a15f7b528cd54deab789e\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-rc01.aar\012076086afc9773ffd80c24e73b5219\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-rc01.aar\3bc9b5ace8acf55c4e4d526feecc0677\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-rc01.aar\32cc806aee0a9be5b3fde384cc6e7fb4\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\print-1.0.0-rc01.aar\3fde9d58f88e3d157f0ffed2ce12f7a7\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-rc01.aar\c985c59d5d489e04908c936c6c0c04b4\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-rc01.aar\54793c29b16d8319147cda0c643c9a8f\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-rc01.aar\ff5561c77512720ba1b843baebb36af7\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-rc01.aar\55f4a08a19e6d6b64b83a5089c34d989\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-rc01.aar\f7bad214d1c7768f31db15e43de22b2c\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:22:1-245:12
-INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:22:1-245:12
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:22:1-245:12
+INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:22:1-245:12
+INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:22:1-245:12
+MERGED from [androidx.preference:preference:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\preference-1.0.0-rc01.aar\9835eefff71273d6f939db5d30ac86ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\material-1.0.0-rc01.aar\719aaddc40635f8096c4a66e9208f18f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-rc01.aar\02c0b02b99ef5300add599965edf500a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-rc01.aar\ce042fb7b6ad95b6cc10b8aa21d3d246\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-rc01.aar\ef245a877cb9da08065d0e11771a28fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0-rc01.aar\b1d0b426e2c7bbe2c9ee6947769d8291\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\4fe4ec9b8872cf84969ffc3a80517835\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-rc01.aar\9fe91f2dba29d561c560b3ad9306de08\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-rc01.aar\1fcd0e7a51f0ff5bb2fe85306d0cabf2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-rc01.aar\aba1fbac8e344ee221f251a2dc8de38a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-rc01.aar\4ce93e5e82eed7cec7eec643ded116b0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-rc01.aar\32e803d1e4f995c18718fec7f4136137\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-rc01.aar\bea4f3d44e71bdeebf96291d06686d2d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\352c9a8349fe4b06c6c386e7cb4f2c1c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-rc01.aar\20d66172685776e7397d9d673001c478\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-rc01.aar\76e7d5b00f88ead29300189106c1fc1f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-rc01.aar\edb17239660c5794291edbb233cb556d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-rc01.aar\95642556a0aa21e1fd90de5144915eaf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-rc01.aar\75e3353187f1e6837c69db053b0cc4f8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-rc01.aar\22095ca78666c35e01416c2d20a56371\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-rc01.aar\87b2d9e90fa3feff0788aacddcd000f7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\be46d12cb2c6388deb7edc29390962d5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\74b868555efb85391aec6ceca3648d56\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-rc01.aar\685a88bc95457cd44af60a45319ef26e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-rc01.aar\0f3a9de03d5fb5a0c3ea70591fa70c0a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-rc01.aar\7b086955926107e6246c2c6336931031\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-rc01.aar\a4341c5963693b1d52b2619197e83911\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\print-1.0.0-rc01.aar\617808d6b94d91d8664ee0ef39f9ba27\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-rc01.aar\f4e67b9b48493214aac13cf6d0926570\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-rc01.aar\2b7f87de2bef6309ee778ab5e87d1932\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-rc01.aar\09c8f35fe8602ac8998077e37c248a27\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-rc01.aar\de06d0cdbf7ad981bd608d6db1cba799\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-rc01.aar\f382ff4885516ead9e9c2c3d9942cdea\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:22:1-245:12
+INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:22:1-245:12
 	package
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:24:5-35
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:24:5-35
 	android:versionName
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:27:5-32
-		INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
-		INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:27:5-32
+		INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
+		INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:23:5-51
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:23:5-51
 	xmlns:android
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:22:11-69
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:22:11-69
 	android:versionCode
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:26:5-31
-		INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
-		INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:26:5-31
+		INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
+		INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
 	android:installLocation
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:25:5-43
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:25:5-43
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:31:5-81
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:31:5-81
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:31:22-78
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:31:22-78
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:33:5-76
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:33:5-76
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:33:22-73
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:33:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:35:5-79
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:35:5-79
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:35:22-76
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:35:22-76
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:40:5-76
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:40:5-76
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:40:22-73
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:40:22-73
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:42:5-67
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:42:5-67
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:42:22-64
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:42:22-64
 uses-permission#android.permission.WAKE_LOCK
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:44:5-68
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:44:5-68
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:44:22-65
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:44:22-65
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:46:5-81
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:46:5-81
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:46:22-78
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:46:22-78
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:48:5-50:47
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:48:5-50:47
 	tools:ignore
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:50:9-44
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:50:9-44
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:49:9-57
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:49:9-57
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:52:5-81
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:52:5-81
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:52:22-78
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:52:22-78
 supports-screens
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:54:5-58:40
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:54:5-58:40
 	android:largeScreens
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:55:9-36
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:55:9-36
 	android:smallScreens
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:57:9-36
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:57:9-36
 	android:normalScreens
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:56:9-37
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:56:9-37
 	android:xlargeScreens
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:58:9-37
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:58:9-37
 uses-sdk
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
-INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
-INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
-INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
-MERGED from [androidx.preference:preference:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\preference-1.0.0-rc01.aar\cd34c85f540a0169dae0bdf26188c7e7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.preference:preference:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\preference-1.0.0-rc01.aar\cd34c85f540a0169dae0bdf26188c7e7\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\material-1.0.0-rc01.aar\c1235ac7882c2fd99b56fad5f571835f\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\material-1.0.0-rc01.aar\c1235ac7882c2fd99b56fad5f571835f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-rc01.aar\ef5b8736ecef7f7251b1e03864287f99\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-rc01.aar\ef5b8736ecef7f7251b1e03864287f99\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-rc01.aar\ec5160d27a572394be951073bba0b357\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-rc01.aar\ec5160d27a572394be951073bba0b357\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-rc01.aar\c2cf050fec794154bfcce262c10c4f03\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-rc01.aar\c2cf050fec794154bfcce262c10c4f03\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v13:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0-rc01.aar\202c3a27b4096cd917e7d1f7f456adfc\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v13:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0-rc01.aar\202c3a27b4096cd917e7d1f7f456adfc\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\5f9b6aa36c325034f3bbe9b97cc5b634\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\5f9b6aa36c325034f3bbe9b97cc5b634\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-rc01.aar\47011ac14040a6dd7caaa21259518900\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-rc01.aar\47011ac14040a6dd7caaa21259518900\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-rc01.aar\529851f0b9a9f3ad25ec3d79a81343cd\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-rc01.aar\529851f0b9a9f3ad25ec3d79a81343cd\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-rc01.aar\7306e9bb2317dcc43070c7e3d2b33155\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-rc01.aar\7306e9bb2317dcc43070c7e3d2b33155\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-rc01.aar\5b0b8238a9a7e07a5c30836f31324f8c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-rc01.aar\5b0b8238a9a7e07a5c30836f31324f8c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-rc01.aar\b39dc2b24a20a510814191c3db886607\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-rc01.aar\b39dc2b24a20a510814191c3db886607\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-rc01.aar\f8c49706607c775800192c0f7d551af5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-rc01.aar\f8c49706607c775800192c0f7d551af5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\b00e5c782283781b10fdc8c06ac355d1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\b00e5c782283781b10fdc8c06ac355d1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-rc01.aar\f79c71f0fb75ff8edb82c60b2c560859\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-rc01.aar\f79c71f0fb75ff8edb82c60b2c560859\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-rc01.aar\44bb367ef68eaa7ce42c452b32f59a92\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-rc01.aar\44bb367ef68eaa7ce42c452b32f59a92\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-rc01.aar\a9b20867e8474b3ae6567aeb55850a82\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-rc01.aar\a9b20867e8474b3ae6567aeb55850a82\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-rc01.aar\600e397b2bc9a73eac13ed1a34c6ab1c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-rc01.aar\600e397b2bc9a73eac13ed1a34c6ab1c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-rc01.aar\065db46e25a14f37a09597f9a002342b\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-rc01.aar\065db46e25a14f37a09597f9a002342b\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-rc01.aar\2213aa6b5682525bb0974b5534f0c864\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-rc01.aar\2213aa6b5682525bb0974b5534f0c864\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-rc01.aar\e89334d44cd4592cf01d07d68e6cd4fd\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-rc01.aar\e89334d44cd4592cf01d07d68e6cd4fd\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\2ca3c787ddb32ee6fcb57cc5fd8501fe\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\2ca3c787ddb32ee6fcb57cc5fd8501fe\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\fafad3da081cc5f35abc3ff023da5fdb\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\fafad3da081cc5f35abc3ff023da5fdb\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-rc01.aar\91cd390ccc1a15f7b528cd54deab789e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-rc01.aar\91cd390ccc1a15f7b528cd54deab789e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-rc01.aar\012076086afc9773ffd80c24e73b5219\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-rc01.aar\012076086afc9773ffd80c24e73b5219\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-rc01.aar\3bc9b5ace8acf55c4e4d526feecc0677\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-rc01.aar\3bc9b5ace8acf55c4e4d526feecc0677\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-rc01.aar\32cc806aee0a9be5b3fde384cc6e7fb4\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-rc01.aar\32cc806aee0a9be5b3fde384cc6e7fb4\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\print-1.0.0-rc01.aar\3fde9d58f88e3d157f0ffed2ce12f7a7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\print-1.0.0-rc01.aar\3fde9d58f88e3d157f0ffed2ce12f7a7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-rc01.aar\c985c59d5d489e04908c936c6c0c04b4\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-rc01.aar\c985c59d5d489e04908c936c6c0c04b4\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-rc01.aar\54793c29b16d8319147cda0c643c9a8f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-rc01.aar\54793c29b16d8319147cda0c643c9a8f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-rc01.aar\ff5561c77512720ba1b843baebb36af7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-rc01.aar\ff5561c77512720ba1b843baebb36af7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-rc01.aar\55f4a08a19e6d6b64b83a5089c34d989\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-rc01.aar\55f4a08a19e6d6b64b83a5089c34d989\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-rc01.aar\f7bad214d1c7768f31db15e43de22b2c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-rc01.aar\f7bad214d1c7768f31db15e43de22b2c\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
-INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
-INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
+INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
+INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
+INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
+MERGED from [androidx.preference:preference:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\preference-1.0.0-rc01.aar\9835eefff71273d6f939db5d30ac86ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\preference-1.0.0-rc01.aar\9835eefff71273d6f939db5d30ac86ff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\material-1.0.0-rc01.aar\719aaddc40635f8096c4a66e9208f18f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\material-1.0.0-rc01.aar\719aaddc40635f8096c4a66e9208f18f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-rc01.aar\02c0b02b99ef5300add599965edf500a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-rc01.aar\02c0b02b99ef5300add599965edf500a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-rc01.aar\ce042fb7b6ad95b6cc10b8aa21d3d246\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-rc01.aar\ce042fb7b6ad95b6cc10b8aa21d3d246\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-rc01.aar\ef245a877cb9da08065d0e11771a28fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-rc01.aar\ef245a877cb9da08065d0e11771a28fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0-rc01.aar\b1d0b426e2c7bbe2c9ee6947769d8291\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0-rc01.aar\b1d0b426e2c7bbe2c9ee6947769d8291\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\4fe4ec9b8872cf84969ffc3a80517835\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\4fe4ec9b8872cf84969ffc3a80517835\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-rc01.aar\9fe91f2dba29d561c560b3ad9306de08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0-rc01.aar\9fe91f2dba29d561c560b3ad9306de08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-rc01.aar\1fcd0e7a51f0ff5bb2fe85306d0cabf2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-rc01.aar\1fcd0e7a51f0ff5bb2fe85306d0cabf2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-rc01.aar\aba1fbac8e344ee221f251a2dc8de38a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0-rc01.aar\aba1fbac8e344ee221f251a2dc8de38a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-rc01.aar\4ce93e5e82eed7cec7eec643ded116b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0-rc01.aar\4ce93e5e82eed7cec7eec643ded116b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-rc01.aar\32e803d1e4f995c18718fec7f4136137\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-rc01.aar\32e803d1e4f995c18718fec7f4136137\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-rc01.aar\bea4f3d44e71bdeebf96291d06686d2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\loader-1.0.0-rc01.aar\bea4f3d44e71bdeebf96291d06686d2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\352c9a8349fe4b06c6c386e7cb4f2c1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\352c9a8349fe4b06c6c386e7cb4f2c1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-rc01.aar\20d66172685776e7397d9d673001c478\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0-rc01.aar\20d66172685776e7397d9d673001c478\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-rc01.aar\76e7d5b00f88ead29300189106c1fc1f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0-rc01.aar\76e7d5b00f88ead29300189106c1fc1f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-rc01.aar\edb17239660c5794291edbb233cb556d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0-rc01.aar\edb17239660c5794291edbb233cb556d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-rc01.aar\95642556a0aa21e1fd90de5144915eaf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0-rc01.aar\95642556a0aa21e1fd90de5144915eaf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-rc01.aar\75e3353187f1e6837c69db053b0cc4f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\customview-1.0.0-rc01.aar\75e3353187f1e6837c69db053b0cc4f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-rc01.aar\22095ca78666c35e01416c2d20a56371\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0-rc01.aar\22095ca78666c35e01416c2d20a56371\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-rc01.aar\87b2d9e90fa3feff0788aacddcd000f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0-rc01.aar\87b2d9e90fa3feff0788aacddcd000f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\be46d12cb2c6388deb7edc29390962d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\be46d12cb2c6388deb7edc29390962d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\74b868555efb85391aec6ceca3648d56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\74b868555efb85391aec6ceca3648d56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-rc01.aar\685a88bc95457cd44af60a45319ef26e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0-rc01.aar\685a88bc95457cd44af60a45319ef26e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-rc01.aar\0f3a9de03d5fb5a0c3ea70591fa70c0a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-rc01.aar\0f3a9de03d5fb5a0c3ea70591fa70c0a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-rc01.aar\7b086955926107e6246c2c6336931031\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0-rc01.aar\7b086955926107e6246c2c6336931031\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-rc01.aar\a4341c5963693b1d52b2619197e83911\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0-rc01.aar\a4341c5963693b1d52b2619197e83911\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\print-1.0.0-rc01.aar\617808d6b94d91d8664ee0ef39f9ba27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\print-1.0.0-rc01.aar\617808d6b94d91d8664ee0ef39f9ba27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-rc01.aar\f4e67b9b48493214aac13cf6d0926570\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0-rc01.aar\f4e67b9b48493214aac13cf6d0926570\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-rc01.aar\2b7f87de2bef6309ee778ab5e87d1932\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0-rc01.aar\2b7f87de2bef6309ee778ab5e87d1932\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-rc01.aar\09c8f35fe8602ac8998077e37c248a27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0-rc01.aar\09c8f35fe8602ac8998077e37c248a27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-rc01.aar\de06d0cdbf7ad981bd608d6db1cba799\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0-rc01.aar\de06d0cdbf7ad981bd608d6db1cba799\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-rc01.aar\f382ff4885516ead9e9c2c3d9942cdea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0-rc01.aar\f382ff4885516ead9e9c2c3d9942cdea\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
+INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
+INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
 	android:maxSdkVersion
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:61:9-35
-		INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
-		INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:61:9-35
+		INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
+		INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
-		INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
+		INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
+		INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
 	tools:ignore
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:64:9-39
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:64:9-39
 	android:minSdkVersion
-		INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
-		INJECTED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
+		INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:60:5-64:42
+		INJECTED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml
 uses-feature#android.hardware.wifi
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:66:5-68:36
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:66:5-68:36
 	android:required
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:68:9-33
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:68:9-33
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:67:9-45
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:67:9-45
 uses-feature#android.hardware.touchscreen
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:69:5-71:36
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:69:5-71:36
 	android:required
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:71:9-33
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:71:9-33
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:70:9-52
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:70:9-52
 uses-feature#android.hardware.location
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:72:5-74:36
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:72:5-74:36
 	android:required
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:74:9-33
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:74:9-33
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:73:9-49
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:73:9-49
 application
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:76:5-243:19
-MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\material-1.0.0-rc01.aar\c1235ac7882c2fd99b56fad5f571835f\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\material-1.0.0-rc01.aar\c1235ac7882c2fd99b56fad5f571835f\AndroidManifest.xml:22:5-20
-MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\2ca3c787ddb32ee6fcb57cc5fd8501fe\AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\2ca3c787ddb32ee6fcb57cc5fd8501fe\AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\fafad3da081cc5f35abc3ff023da5fdb\AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\fafad3da081cc5f35abc3ff023da5fdb\AndroidManifest.xml:22:5-23:19
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:76:5-243:19
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\material-1.0.0-rc01.aar\719aaddc40635f8096c4a66e9208f18f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\material-1.0.0-rc01.aar\719aaddc40635f8096c4a66e9208f18f\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\be46d12cb2c6388deb7edc29390962d5\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\be46d12cb2c6388deb7edc29390962d5\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\74b868555efb85391aec6ceca3648d56\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0-rc01.aar\74b868555efb85391aec6ceca3648d56\AndroidManifest.xml:22:5-23:19
 	android:backupAgent
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:78:9-54
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:78:9-54
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.0-rc01] C:\Users\admewens\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\2ca3c787ddb32ee6fcb57cc5fd8501fe\AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.0.0-rc01] C:\Users\ewens.HGSC\.gradle\caches\transforms-1\files-1.1\core-1.0.0-rc01.aar\be46d12cb2c6388deb7edc29390962d5\AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:82:9-41
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:82:9-41
 	android:hardwareAccelerated
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:80:9-43
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:80:9-43
 	android:fullBackupContent
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:84:9-59
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:84:9-59
 	android:restoreAnyVersion
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:83:9-41
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:83:9-41
 	android:icon
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:81:9-38
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:81:9-38
 	android:allowBackup
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:77:9-36
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:77:9-36
 	android:description
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:79:9-47
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:79:9-47
 	android:theme
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:85:9-46
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:85:9-46
 meta-data#com.google.android.backup.api_key
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:86:9-88:50
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:86:9-88:50
 	android:value
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:88:13-47
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:88:13-47
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:87:13-61
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:87:13-61
 activity#org.wahtod.wififixer.ui.MainActivity
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:90:9-100:20
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:90:9-100:20
 	android:clearTaskOnLaunch
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:92:13-45
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:92:13-45
 	android:launchMode
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:93:13-44
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:93:13-44
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:91:13-44
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:91:13-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.MULTIWINDOW_LAUNCHER
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:94:13-99:29
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:94:13-99:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:95:17-69
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:95:17-69
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:95:25-66
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:95:25-66
 category#android.intent.category.MULTIWINDOW_LAUNCHER
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:97:17-89
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:97:17-89
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:97:27-86
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:97:27-86
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:98:17-77
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:98:17-77
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:98:27-74
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:98:27-74
 activity#org.wahtod.wififixer.ui.About
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:103:9-108:20
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:103:9-108:20
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:103:19-43
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:103:19-43
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:105:13-107:72
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:105:13-107:72
 	android:value
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:107:17-69
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:107:17-69
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:106:17-63
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:106:17-63
 activity#org.wahtod.wififixer.ui.PrefActivity
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:109:9-113:20
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:109:9-113:20
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:109:19-50
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:109:19-50
 activity#org.wahtod.wififixer.ui.HelpActivity
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:114:9-118:20
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:114:9-118:20
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:114:19-50
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:114:19-50
 receiver#org.wahtod.wififixer.boot.BootReceiver
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:121:9-125:20
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:121:9-125:20
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:121:19-52
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:121:19-52
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:122:13-124:29
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:122:13-124:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:123:17-79
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:123:17-79
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:123:25-76
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:123:25-76
 receiver#org.wahtod.wififixer.NotificationReceiver
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:128:9-137:20
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:128:9-137:20
 	android:exported
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:130:13-36
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:130:13-36
 	tools:ignore
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:132:13-44
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:132:13-44
 	android:permission
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:131:13-34
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:131:13-34
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:129:13-49
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:129:13-49
 intent-filter#action:name:org.wahtod.wififixer.ACTION_POP_NOTIFICATION
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:133:13-136:29
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:133:13-136:29
 action#org.wahtod.wififixer.ACTION_POP_NOTIFICATION
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:134:17-87
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:134:17-87
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:134:25-84
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:134:25-84
 receiver#org.wahtod.wififixer.WFBroadcastReceiver
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:140:9-156:20
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:140:9-156:20
 	tools:ignore
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:143:13-44
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:143:13-44
 	android:permission
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:142:13-34
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:142:13-34
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:141:13-48
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:141:13-48
 intent-filter#action:name:org.wahtod.wififixer.ACTION_WIFI_CHANGE+action:name:org.wahtod.wififixer.ACTION_WIFI_CONNECT+action:name:org.wahtod.wififixer.ACTION_WIFI_OFF+action:name:org.wahtod.wififixer.ACTION_WIFI_ON+action:name:org.wahtod.wififixer.ACTION_WIFI_SERVICE_DISABLE+action:name:org.wahtod.wififixer.ACTION_WIFI_SERVICE_ENABLE+action:name:org.wahtod.wififixer.ACTION_WIFI_TOGGLE+action:name:org.wahtod.wififixer.AUTH+action:name:org.wahtod.wififixer.WIDGET
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:144:13-155:29
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:144:13-155:29
 action#org.wahtod.wififixer.ACTION_WIFI_CONNECT
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:145:17-83
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:145:17-83
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:145:25-80
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:145:25-80
 action#org.wahtod.wififixer.ACTION_WIFI_SERVICE_DISABLE
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:146:17-91
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:146:17-91
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:146:25-88
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:146:25-88
 action#org.wahtod.wififixer.ACTION_WIFI_SERVICE_ENABLE
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:147:17-90
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:147:17-90
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:147:25-87
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:147:25-87
 action#org.wahtod.wififixer.WIDGET
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:148:17-70
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:148:17-70
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:148:25-67
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:148:25-67
 action#org.wahtod.wififixer.AUTH
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:149:17-68
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:149:17-68
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:149:25-65
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:149:25-65
 action#org.wahtod.wififixer.ACTION_WIFI_ON
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:150:17-78
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:150:17-78
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:150:25-75
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:150:25-75
 action#org.wahtod.wififixer.ACTION_WIFI_OFF
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:151:17-79
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:151:17-79
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:151:25-76
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:151:25-76
 action#org.wahtod.wififixer.ACTION_WIFI_CHANGE
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:152:17-82
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:152:17-82
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:152:25-79
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:152:25-79
 action#org.wahtod.wififixer.ACTION_WIFI_TOGGLE
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:153:17-82
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:153:17-82
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:153:25-79
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:153:25-79
 receiver#org.wahtod.wififixer.widget.WidgetReceiver
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:163:9-172:20
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:163:9-172:20
 	android:exported
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:165:13-37
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:165:13-37
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:164:13-50
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:164:13-50
 intent-filter#action:name:org.wahtod.wififixer.WidgetReceiver.WIFI_OFF+action:name:org.wahtod.wififixer.WidgetReceiver.WIFI_ON+action:name:org.wahtod.wififixer.WidgetReceiver.WIFI_REASSOCIATE+action:name:org.wahtod.wififixer.WidgetReceiver.WIFI_TOGGLE
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:166:13-171:29
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:166:13-171:29
 action#org.wahtod.wififixer.WidgetReceiver.WIFI_ON
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:167:17-86
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:167:17-86
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:167:25-83
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:167:25-83
 action#org.wahtod.wififixer.WidgetReceiver.WIFI_OFF
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:168:17-87
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:168:17-87
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:168:25-84
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:168:25-84
 action#org.wahtod.wififixer.WidgetReceiver.WIFI_TOGGLE
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:169:17-90
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:169:17-90
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:169:25-87
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:169:25-87
 action#org.wahtod.wififixer.WidgetReceiver.WIFI_REASSOCIATE
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:170:17-95
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:170:17-95
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:170:25-92
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:170:25-92
 receiver#org.wahtod.wififixer.widget.FixerWidget
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:173:9-184:20
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:173:9-184:20
 	android:label
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:175:13-53
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:175:13-53
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:174:13-47
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:174:13-47
 intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE+action:name:org.wahtod.wififixer.WNOTIF
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:176:13-179:29
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:176:13-179:29
 action#android.appwidget.action.APPWIDGET_UPDATE
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:177:17-84
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:177:17-84
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:177:25-81
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:177:25-81
 action#org.wahtod.wififixer.WNOTIF
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:178:17-70
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:178:17-70
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:178:25-67
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:178:25-67
 meta-data#android.appwidget.provider
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:181:13-183:59
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:181:13-183:59
 	android:resource
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:183:17-56
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:183:17-56
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:182:17-58
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:182:17-58
 receiver#org.wahtod.wififixer.widget.FixerWidgetSmall
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:185:9-196:20
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:185:9-196:20
 	android:label
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:187:13-53
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:187:13-53
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:186:13-52
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:186:13-52
 service#org.wahtod.wififixer.widget.UpdateService
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:198:9-57
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:198:9-57
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:198:18-54
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:198:18-54
 service#org.wahtod.wififixer.widget.StatusUpdateService
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:199:9-63
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:199:9-63
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:199:18-60
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:199:18-60
 service#org.wahtod.wififixer.WFMonitorService
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:203:9-207:41
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:203:9-207:41
 	android:exported
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:205:13-37
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:205:13-37
 	android:persistent
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:207:13-38
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:207:13-38
 	android:icon
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:206:13-42
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:206:13-42
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:204:13-45
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:204:13-45
 service#org.wahtod.wififixer.ToggleService
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:211:9-50
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:211:9-50
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:211:18-47
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:211:18-47
 service#org.wahtod.wififixer.utility.WifiWatchdogService
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:212:9-64
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:212:9-64
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:212:18-61
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:212:18-61
 uses-library#com.sec.android.app.multiwindow
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:214:9-216:40
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:214:9-216:40
 	android:required
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:216:13-37
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:216:13-37
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:215:13-59
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:215:13-59
 meta-data#com.sec.android.support.multiwindow
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:218:9-220:36
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:218:9-220:36
 	android:value
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:220:13-33
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:220:13-33
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:219:13-63
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:219:13-63
 meta-data#com.sec.android.multiwindow.DEFAULT_SIZE_W
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:221:9-223:37
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:221:9-223:37
 	android:value
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:223:13-34
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:223:13-34
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:222:13-70
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:222:13-70
 meta-data#com.sec.android.multiwindow.DEFAULT_SIZE_H
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:224:9-226:37
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:224:9-226:37
 	android:value
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:226:13-34
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:226:13-34
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:225:13-70
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:225:13-70
 meta-data#com.sec.android.multiwindow.MINIMUM_SIZE_W
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:227:9-229:37
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:227:9-229:37
 	android:value
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:229:13-34
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:229:13-34
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:228:13-70
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:228:13-70
 meta-data#com.sec.android.multiwindow.MINIMUM_SIZE_H
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:230:9-232:37
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:230:9-232:37
 	android:value
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:232:13-34
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:232:13-34
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:231:13-70
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:231:13-70
 provider#androidx.core.content.FileProvider
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:234:9-242:20
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:234:9-242:20
 	android:grantUriPermissions
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:238:13-47
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:238:13-47
 	android:authorities
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:236:13-61
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:236:13-61
 	android:exported
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:237:13-37
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:237:13-37
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:235:13-62
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:235:13-62
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:239:13-241:61
+ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:239:13-241:61
 	android:resource
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:241:17-58
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:241:17-58
 	android:name
-		ADDED from C:\Users\admewens\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:240:17-67
+		ADDED from C:\Users\ewens.HGSC\Documents\GitHub\Wifi-Fixer\AndroidManifest.xml:240:17-67
