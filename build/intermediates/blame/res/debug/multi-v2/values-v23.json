@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ewens\\Documents\\GitHub\\Wifi-Fixer\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\ewens.HGSC\\Documents\\GitHub\\Wifi-Fixer\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ewens\\.gradle\\caches\\transforms-2\\files-2.1\\appcompat-1.0.2.aar\\5154f83edb16871673cc644ccba92c57\\outputDirectory\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\ewens.HGSC\\.gradle\\caches\\transforms-2\\files-2.1\\appcompat-1.0.2.aar\\d08b0d5fc7d91be5f41c05e593f21f21\\outputDirectory\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ewens\\.gradle\\caches\\transforms-2\\files-2.1\\cardview-1.0.0.aar\\cdb8b76cea2b642206869460b18ee5a6\\outputDirectory\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\ewens.HGSC\\.gradle\\caches\\transforms-2\\files-2.1\\cardview-1.0.0.aar\\cb7d83cd7803fc82c6ce219a47a725e3\\outputDirectory\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
