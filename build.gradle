@@ -31,7 +31,7 @@ buildscript {
         maven { url 'http://dl.bintray.com/kotlin/kotlin-eap' }
     }
     dependencies {
-       // classpath 'com.android.tools.build:gradle:3.4.0-alpha02'
+       //classpath 'com.android.tools.build:gradle:3.4.0-alpha05'
         classpath 'com.android.tools.build:gradle:3.2.1'
         classpath 'com.gradle:build-scan-plugin:2.0'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
@@ -62,7 +62,7 @@ dependencies {
     implementation 'androidx.preference:preference:1.0.0'
     implementation 'androidx.vectordrawable:vectordrawable:1.0.1'
     implementation 'androidx.legacy:legacy-support-v13:1.0.0'
-    implementation 'androidx.annotation:annotation:1.0.0'
+    implementation 'androidx.annotation:annotation:1.0.1'
     implementation 'androidx.appcompat:appcompat:1.0.2'
     implementation 'com.google.android.material:material:1.0.0'
     implementation  "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
