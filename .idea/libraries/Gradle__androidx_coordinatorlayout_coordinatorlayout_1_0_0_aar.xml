@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6fc422744be8f5c9835fa4eb0569106b/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3634773724cedbe8eb99a60f32ca8a5d/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6fc422744be8f5c9835fa4eb0569106b/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6fc422744be8f5c9835fa4eb0569106b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3634773724cedbe8eb99a60f32ca8a5d/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3634773724cedbe8eb99a60f32ca8a5d/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
