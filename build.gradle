@@ -29,7 +29,7 @@ buildscript {
         maven { url 'http://dl.bintray.com/kotlin/kotlin-eap' }
     }
     dependencies {
-       classpath 'com.android.tools.build:gradle:3.2.1'
+       classpath 'com.android.tools.build:gradle:3.4.0-alpha08'
        // classpath 'com.android.tools.build:gradle:3.4.0-alpha08'
         classpath 'com.gradle:build-scan-plugin:2.0'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
@@ -87,7 +87,7 @@ android {
 
         debug {
             compileSdkVersion 28
-            buildToolsVersion "28.0.0"
+            buildToolsVersion "28.0.3"
         }
     }
 
