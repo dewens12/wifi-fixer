@@ -22,16 +22,16 @@ buildscript {
     repositories {
         maven { url 'http://repo1.maven.org/maven2'
                 }
+        maven { url 'https://plugins.gradle.org/m2/' }
+        maven { url 'http://dl.bintray.com/kotlin/kotlin-eap' }
         google()
         mavenCentral()
 
-        maven { url 'https://plugins.gradle.org/m2/' }
-        maven { url 'http://dl.bintray.com/kotlin/kotlin-eap' }
     }
     dependencies {
-       classpath 'com.android.tools.build:gradle:3.4.0-alpha08'
+       classpath 'com.android.tools.build:gradle:3.2.1'
        // classpath 'com.android.tools.build:gradle:3.4.0-alpha08'
-        classpath 'com.gradle:build-scan-plugin:2.0'
+
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
 
     }
@@ -39,10 +39,6 @@ buildscript {
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-android'
-apply plugin: 'com.gradle.build-scan'
-
-
-
 
 repositories {
     mavenCentral()
@@ -51,7 +47,7 @@ repositories {
     maven {
         url "https://jitpack.io"
     }
-    maven { url 'http://dl.bintray.com/kotlin/kotlin-eap' }
+   // maven { url 'http://dl.bintray.com/kotlin/kotlin-eap' }
 
 }
 
@@ -63,7 +59,7 @@ dependencies {
     implementation 'androidx.annotation:annotation:1.0.1'
     implementation 'androidx.appcompat:appcompat:1.0.2'
     implementation 'com.google.android.material:material:1.0.0'
-    implementation  "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+  //  implementation  "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 
 }
 
