@@ -436,7 +436,7 @@ public class WFMonitor implements OnScreenStateChangedListener, Hostup.HostupRes
             AsyncWifiManager.get(context).updateNetwork(network);
             String out = (context.getString(R.string.demoting_network)) + network.SSID +
                     context.getString(R.string._to_) +
-                    String.valueOf(network.priority);
+                    network.priority;
             LogUtil.log(context, out);
         } else {
             LogUtil.log(context,
@@ -556,7 +556,7 @@ public class WFMonitor implements OnScreenStateChangedListener, Hostup.HostupRes
 
         LogUtil.log(context,
                 context.getString(R.string.number_of_known) +
-                        String.valueOf(knownbysignal.size()));
+                        knownbysignal.size());
         numKnownNetworks = knownbysignal.size();
         multiBssidCheck(knownbysignal);
         return knownbysignal;
@@ -666,10 +666,10 @@ public class WFMonitor implements OnScreenStateChangedListener, Hostup.HostupRes
                 sResult.capabilities +
                 NEWLINE +
                 context.getString(R.string.signal_level) +
-                String.valueOf(sResult.level) +
+                sResult.level +
                 NEWLINE +
                 context.getString(R.string.priority) +
-                String.valueOf(wfResult.priority);
+                wfResult.priority;
         LogUtil.log(context, out);
     }
 
@@ -680,10 +680,10 @@ public class WFMonitor implements OnScreenStateChangedListener, Hostup.HostupRes
                 best.wificonfig.BSSID +
                 NEWLINE +
                 context.getString(R.string.signal_level) +
-                String.valueOf(best.level) +
+                best.level +
                 NEWLINE +
                 context.getString(R.string.nid) +
-                String.valueOf(best.wificonfig.networkId);
+                best.wificonfig.networkId;
         LogUtil.log(context, output);
     }
 
@@ -949,7 +949,7 @@ public class WFMonitor implements OnScreenStateChangedListener, Hostup.HostupRes
         }
         LogUtil.log(context,
                 (new StringBuilder(context.getString(R.string.current_dbm))
-                        .append(String.valueOf(signal))).toString()
+                        .append(signal)).toString()
         );
     }
 
@@ -1300,7 +1300,7 @@ public class WFMonitor implements OnScreenStateChangedListener, Hostup.HostupRes
         LogUtil.log(ctxt.get(),
                 ctxt.get().getString(
                         R.string.supplicant_state) +
-                        String.valueOf(sState)
+                        sState
         );
         /*
          * Supplicant State triggers

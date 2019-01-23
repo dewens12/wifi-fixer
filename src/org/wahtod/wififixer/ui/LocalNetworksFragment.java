@@ -35,18 +35,18 @@ import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import androidx.annotation.NonNull;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentTransaction;
+import androidx.loader.app.LoaderManager;
+import androidx.loader.content.Loader;
+
 import org.wahtod.wififixer.R;
 import org.wahtod.wififixer.utility.NotifUtil;
 import org.wahtod.wififixer.utility.StringUtil;
 import org.wahtod.wififixer.utility.WFScanResult;
 
 import java.util.List;
-
-import androidx.annotation.NonNull;
-import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentTransaction;
-import androidx.loader.app.LoaderManager;
-import androidx.loader.content.Loader;
 
 public class LocalNetworksFragment extends Fragment implements LoaderManager.LoaderCallbacks {
     private ScanListAdapter adapter;
@@ -125,19 +125,17 @@ public class LocalNetworksFragment extends Fragment implements LoaderManager.Loa
         transaction.commit();
     }
 
-    @Override
+
     public Loader onCreateLoader(int i, Bundle bundle) {
         return new LocalNetworksLoader(this.getActivity());
     }
 
-    @Override
     public void onLoadFinished(Loader loader, Object o) {
         //noinspection unchecked
         adapter.scanresultArray = (List<WFScanResult>) o;
         adapter.notifyDataSetChanged();
     }
 
-    @Override
     public void onLoaderReset(Loader loader) {
         adapter.scanresultArray = null;
     }

@@ -18,7 +18,6 @@
 
 package org.wahtod.wififixer.ui;
 
-import android.annotation.SuppressLint;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
@@ -34,6 +33,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import androidx.fragment.app.Fragment;
+
 import org.wahtod.wififixer.R;
 import org.wahtod.wififixer.utility.AsyncWifiManager;
 import org.wahtod.wififixer.utility.BroadcastHelper;
@@ -44,10 +45,6 @@ import org.wahtod.wififixer.utility.StringUtil;
 
 import java.lang.ref.WeakReference;
 import java.util.Objects;
-
-import androidx.fragment.app.Fragment;
-
-import static org.wahtod.wififixer.R.layout.abc_cascading_menu_item_layout;
 
 public class StatusFragment extends Fragment {
     private static final int REFRESH = 0;
@@ -168,8 +165,8 @@ public class StatusFragment extends Fragment {
             _views.setIcon(R.drawable.icon);
         } else {
             _views.setSsid(StringUtil.removeQuotes(info.getSSID()));
-            _views.setSignal(String.valueOf(info.getRssi()) + DBM);
-            _views.setLinkspeed(String.valueOf(info.getLinkSpeed()) + MB);
+            _views.setSignal(info.getRssi() + DBM);
+            _views.setLinkspeed(info.getLinkSpeed() + MB);
             _views.setStatus(info.getSupplicantState().name());
             _views.setIcon(NotifUtil.getIconfromSignal(
                     WifiManager.calculateSignalLevel(

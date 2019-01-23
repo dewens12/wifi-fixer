@@ -32,6 +32,8 @@ import android.os.Environment;
 import android.util.Log;
 import android.widget.EditText;
 
+import androidx.core.content.FileProvider;
+
 import org.wahtod.wififixer.DefaultExceptionHandler;
 import org.wahtod.wififixer.R;
 import org.wahtod.wififixer.WFMonitorService;
@@ -46,8 +48,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.util.List;
-
-import androidx.core.content.FileProvider;
 
 public class LogUtil {
     public static final String LOGFILE = "wififixer_log.txt";
@@ -213,7 +213,7 @@ public class LogUtil {
         return BUILD +
                 vstring +
                 COLON +
-                String.valueOf(version);
+                version;
     }
 
     public static void writeLogtoSd(Context context) {

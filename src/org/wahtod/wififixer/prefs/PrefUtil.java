@@ -383,7 +383,7 @@ public class PrefUtil implements SharedPreferences.OnSharedPreferenceChangeListe
         String logstring = pref.key() + COLON +
                 network +
                 COLON +
-                String.valueOf(intTemp[pref.ordinal()]);
+                intTemp[pref.ordinal()];
         LogUtil.log(context.get(),
                 logstring);
 
@@ -416,7 +416,7 @@ public class PrefUtil implements SharedPreferences.OnSharedPreferenceChangeListe
         if (getSharedPreferences(c).contains(key)) {
             String l = c.getString(R.string.prefs_change) + key +
                     c.getString(R.string.colon) +
-                    String.valueOf(readBoolean(c, key));
+                    readBoolean(c, key);
             LogUtil.log(c,
                     LogUtil.getLogTag(),
                     l);

@@ -84,9 +84,9 @@ public class WifiWatchdogService extends Service {
     @Override
     public int onStartCommand(Intent intent, int flags, int startId) {
         LogUtil.log(this, this.getString(R.string.app_name), "WifiWatchdogService Request: "
-                + String.valueOf(startId)
+                + startId
                 + " "
-                + String.valueOf(_waitFlag));
+                + _waitFlag);
         if (!_waitFlag) {
             _waitFlag = true;
             mHandler.get().postDelayed(WatchdogRunnable, WATCHDOG_DELAY);
