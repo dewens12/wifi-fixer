@@ -24,7 +24,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
-
 import org.wahtod.wififixer.R;
 import org.wahtod.wififixer.ToggleService;
 import org.wahtod.wififixer.WFBroadcastReceiver;
@@ -96,7 +95,7 @@ public class WidgetReceiver extends BroadcastReceiver {
             ctxt.get().startService(new Intent(ctxt.get().getApplicationContext(), WifiWatchdogService.class));
     }
 
-    @Override
+
     public void onReceive(Context context, Intent intent) {
         ctxt = new WeakReference<>(context);
         handleIntent(context, intent);
