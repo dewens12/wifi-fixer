@@ -1,0 +1,8 @@
+<root>
+    <item
+        name='androidx.loader.app.LoaderManager.LoaderCallbacks androidx.loader.content.Loader&lt;D&gt; onCreateLoader(int, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true" />
+        </annotation>
+    </item>
+</root>
