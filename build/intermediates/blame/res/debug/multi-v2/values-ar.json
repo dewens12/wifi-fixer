@@ -4,24 +4,24 @@
             "outputFile": "C:\\Users\\ewens\\Documents\\GitHub\\Wifi-Fixer\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ewens\\.gradle\\caches\\transforms-2\\files-2.1\\6f470cb823a6f1a8a2d397947297aaac\\res\\values-ar\\values-ar.xml",
+                    "source": "C:\\Users\\ewens\\.gradle\\caches\\transforms-2\\files-2.1\\41c0f1df1bf470f2b67ca9f22d9348ae\\res\\values-ar\\values-ar.xml",
                     "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "105,198,367,449",
-                        "endColumns": "92,168,81,78",
-                        "endOffsets": "193,362,444,523"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "29,32,33,34",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "2779,3054,3223,3305",
-                        "endColumns": "92,168,81,78",
-                        "endOffsets": "2867,3218,3300,3379"
+                        "startLines": "31",
+                        "startColumns": "4",
+                        "startOffsets": "2953",
+                        "endColumns": "100",
+                        "endOffsets": "3049"
                     }
                 },
                 {
-                    "source": "C:\\Users\\ewens\\.gradle\\caches\\transforms-2\\files-2.1\\04f1827f772f7f23f7e9e77a24833c55\\res\\values-ar\\values-ar.xml",
+                    "source": "C:\\Users\\ewens\\.gradle\\caches\\transforms-2\\files-2.1\\a27c186ccefac4fb5992c28bbc7bf601\\res\\values-ar\\values-ar.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,20 +38,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ewens\\.gradle\\caches\\transforms-2\\files-2.1\\2a8a62dd90ea4459fb0d133f64cf0ad7\\res\\values-ar\\values-ar.xml",
+                    "source": "C:\\Users\\ewens\\.gradle\\caches\\transforms-2\\files-2.1\\22bce6143341f9072a9af1efcde69cd3\\res\\values-ar\\values-ar.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "105,198,367,449",
+                        "endColumns": "92,168,81,78",
+                        "endOffsets": "193,362,444,523"
                     },
                     "to": {
-                        "startLines": "31",
-                        "startColumns": "4",
-                        "startOffsets": "2953",
-                        "endColumns": "100",
-                        "endOffsets": "3049"
+                        "startLines": "29,32,33,34",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2779,3054,3223,3305",
+                        "endColumns": "92,168,81,78",
+                        "endOffsets": "2867,3218,3300,3379"
                     }
                 }
             ]
