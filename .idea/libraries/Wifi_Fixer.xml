@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Wifi-Fixer">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Wifi-Fixer.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
