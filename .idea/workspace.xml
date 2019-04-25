@@ -62,6 +62,7 @@
     <list default="true" id="886d2d41-2a3d-4afc-a4a4-34dcf1c24e53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/BuildConfig.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,6 +95,34 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="Wifi-Fixer" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Wifi-Fixer" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Wifi-Fixer" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Wifi-Fixer" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="cleanup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Wifi-Fixer" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Wifi-Fixer" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
             </expand>
             <select />
@@ -180,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android App.Wifi-Fixer">
+  <component name="RunManager" selected="Gradle.Wifi-Fixer [clean]">
     <configuration default="true" type="AndroidJUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -490,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555970057027</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Clean build of Wifi-Fixer&#10;          Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;&#10;          Gradle 5.4&#10;          Java 11 JDK&#10;          02/25/2019&#10;          4:45 pm&#10;&#10;          Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;&#10;          Updated Nightly Build 5.4-20190318&#10;          03/05/2019&#10;&#10;          5:10 pm&#10;          Java 11.02 JDK&#10;          03/28/2019&#10;&#10;Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;">
+      <created>1556231034325</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1556231034325</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -509,18 +545,18 @@
       <window_info id="Resources Explorer" order="10" weight="0.32910448" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49851853" weight="0.32993197" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925372" weight="0.3298731" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985507" weight="0.3295325" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49925372" weight="0.39976957" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4884058" weight="0.32611173" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.48768115" visible="true" weight="0.32611173" />
       <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5014493" side_tool="true" visible="true" weight="0.3295325" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51231885" side_tool="true" visible="true" weight="0.32611173" />
       <window_info anchor="bottom" id="Logcat" order="10" sideWeight="0.49927536" weight="0.3295325" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49275362" weight="0.24173318" />
       <window_info anchor="bottom" id="CheckStyle" order="12" />
-      <window_info active="true" anchor="bottom" id="Gradle View" order="13" sideWeight="0.4985507" visible="true" weight="0.3295325" />
+      <window_info anchor="bottom" id="Gradle View" order="13" sideWeight="0.4985507" weight="0.3295325" />
       <window_info anchor="bottom" id="Inspection Results" order="14" sideWeight="0.49851853" weight="0.32993197" />
       <window_info anchor="bottom" id="Messages" order="15" />
       <window_info anchor="bottom" id="Terminal" order="16" sideWeight="0.5536232" weight="0.32302937" />
