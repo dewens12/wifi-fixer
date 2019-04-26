@@ -16,7 +16,7 @@
       <library-update>
         <group-id>com.google.android.material</group-id>
         <name>material</name>
-        <version>1.1.0-alpha03</version>
+        <version>1.1.0-alpha05</version>
         <repository>Google</repository>
       </library-update>
       <library-update>
@@ -28,13 +28,13 @@
       <library-update>
         <group-id>androidx.core</group-id>
         <name>core</name>
-        <version>1.1.0-alpha04</version>
+        <version>1.1.0-alpha05</version>
         <repository>Google</repository>
       </library-update>
       <library-update>
         <group-id>androidx.annotation</group-id>
         <name>annotation</name>
-        <version>1.1.0-alpha01</version>
+        <version>1.1.0-beta01</version>
         <repository>Google</repository>
       </library-update>
       <library-update>
@@ -46,23 +46,409 @@
       <library-update>
         <group-id>androidx.preference</group-id>
         <name>preference</name>
-        <version>1.1.0-alpha03</version>
+        <version>1.1.0-alpha04</version>
         <repository>Google</repository>
       </library-update>
       <library-update>
         <group-id>androidx.appcompat</group-id>
         <name>appcompat</name>
-        <version>1.1.0-alpha02</version>
+        <version>1.1.0-alpha04</version>
         <repository>Google</repository>
       </library-update>
     </library-updates>
-    <last-search-timestamp>1551134177976</last-search-timestamp>
+    <last-search-timestamp>1556297101581</last-search-timestamp>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="886d2d41-2a3d-4afc-a4a4-34dcf1c24e53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v13_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_preference_preference_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4-20190318164016+0000/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4-20190318164016+0000/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4-20190318164016+0000/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4-20190318164016+0000/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4-20190318164016+0000/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4-20190318164016+0000/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4-20190318164016+0000/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4-20190318164016+0000/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4-20190318164016+0000/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4-20190318164016+0000/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wifi-Fixer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Wifi-Fixer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/DefaultExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/DefaultExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/NotificationReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/NotificationReceiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ToggleService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ToggleService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ToggleService$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ToggleService$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ToggleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ToggleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFBroadcastReceiver$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFBroadcastReceiver$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFBroadcastReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFBroadcastReceiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$IntentRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$IntentRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitorService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/WFMonitorService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/legacy/EditorDetector.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/legacy/EditorDetector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/legacy/JellyBeanSleepPolicy.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/legacy/JellyBeanSleepPolicy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/legacy/LegacyFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/legacy/LegacyFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/legacy/LegacySleepPolicy.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/legacy/LegacySleepPolicy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/legacy/StrictModeDetector.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/legacy/StrictModeDetector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/prefs/MyPrefs$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/prefs/MyPrefs$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefConstants$NetPref.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefConstants$NetPref.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefConstants$Pref.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefConstants$Pref.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefUtil$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefUtil$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefUtil$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefUtil$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefUtil$PrefLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefUtil$PrefLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/About.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/About.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/AboutFragment$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/AboutFragment$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/AboutFragment$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/AboutFragment$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/AboutFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/AboutFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/BaseDialogFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/BaseDialogFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/ConnectFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/ConnectFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/FirstPageFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/FirstPageFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/HelpActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/HelpActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$NetworkListAdapter$ViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$NetworkListAdapter$ViewHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$NetworkListAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$NetworkListAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/LocalNetworksFragment$ScanListAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/LocalNetworksFragment$ScanListAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/LocalNetworksFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/LocalNetworksFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/LocalNetworksLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/LocalNetworksLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/MainActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/MainActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/PrefActivity$SettingsFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/PrefActivity$SettingsFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/PrefActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/PrefActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/QuickSettingsFragment$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/QuickSettingsFragment$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/QuickSettingsFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/QuickSettingsFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/StatusFragment$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/StatusFragment$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/StatusFragment$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/StatusFragment$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/StatusFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/StatusFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/TabListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/TabListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/TabListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/TabListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/TutorialFragmentActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/TutorialFragmentActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/TutorialFragmentActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/ui/TutorialFragmentActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/AsyncWifiManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/AsyncWifiManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/BroadcastHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/BroadcastHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/FifoList.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/FifoList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/Hostup$HostCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/Hostup$HostCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/Hostup$SetFailover.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/Hostup$SetFailover.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/Hostup.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/Hostup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/LogOpenHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/LogOpenHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/LogUtil$DumpLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/LogUtil$DumpLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/LogUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/LogUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/NotifUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/NotifUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/ScreenStateDetector$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/ScreenStateDetector$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/ScreenStateDetector$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/ScreenStateDetector$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/ScreenStateDetector.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/ScreenStateDetector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/ServiceAlarm.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/ServiceAlarm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/StatusDispatcher$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/StatusDispatcher$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/StatusDispatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/StatusDispatcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/StatusMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/StatusMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/StringUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/StringUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/SupplicantPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/SupplicantPattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/WFScanResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/utility/WFScanResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/widget/StatusUpdateService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/widget/StatusUpdateService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/widget/UpdateService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/widget/UpdateService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/widget/WidgetHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/widget/WidgetHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/widget/WidgetReceiver$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/widget/WidgetReceiver$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/widget/WidgetReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/org/wahtod/wififixer/widget/WidgetReceiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/DefaultExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/DefaultExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/NotificationReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/NotificationReceiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ToggleService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ToggleService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ToggleService$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ToggleService$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ToggleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ToggleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFBroadcastReceiver$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFBroadcastReceiver$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFBroadcastReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFBroadcastReceiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$IntentRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor$IntentRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitorService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/WFMonitorService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/legacy/EditorDetector.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/legacy/EditorDetector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/legacy/JellyBeanSleepPolicy.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/legacy/JellyBeanSleepPolicy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/legacy/LegacyFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/legacy/LegacyFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/legacy/LegacySleepPolicy.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/legacy/LegacySleepPolicy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/legacy/StrictModeDetector.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/legacy/StrictModeDetector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/prefs/MyPrefs$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/prefs/MyPrefs$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefConstants$NetPref.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefConstants$NetPref.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefConstants$Pref.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefConstants$Pref.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefUtil$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefUtil$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefUtil$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefUtil$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefUtil$PrefLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefUtil$PrefLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/prefs/PrefUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/About.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/About.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/AboutFragment$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/AboutFragment$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/AboutFragment$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/AboutFragment$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/AboutFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/AboutFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/BaseDialogFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/BaseDialogFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/ConnectFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/ConnectFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/FirstPageFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/FirstPageFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/HelpActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/HelpActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$NetworkListAdapter$ViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$NetworkListAdapter$ViewHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$NetworkListAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment$NetworkListAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/KnownNetworksFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/LocalNetworksFragment$ScanListAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/LocalNetworksFragment$ScanListAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/LocalNetworksFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/LocalNetworksFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/LocalNetworksLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/LocalNetworksLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/MainActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/MainActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/PrefActivity$SettingsFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/PrefActivity$SettingsFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/PrefActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/PrefActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/QuickSettingsFragment$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/QuickSettingsFragment$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/QuickSettingsFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/QuickSettingsFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/StatusFragment$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/StatusFragment$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/StatusFragment$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/StatusFragment$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/StatusFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/StatusFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/TabListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/TabListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/TabListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/TabListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/TutorialFragmentActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/TutorialFragmentActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/TutorialFragmentActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/ui/TutorialFragmentActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/AsyncWifiManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/AsyncWifiManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/BroadcastHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/BroadcastHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/FifoList.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/FifoList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/Hostup$HostCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/Hostup$HostCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/Hostup$SetFailover.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/Hostup$SetFailover.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/Hostup.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/Hostup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/LogOpenHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/LogOpenHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/LogUtil$DumpLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/LogUtil$DumpLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/LogUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/LogUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/NotifUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/NotifUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/ScreenStateDetector$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/ScreenStateDetector$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/ScreenStateDetector$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/ScreenStateDetector$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/ScreenStateDetector.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/ScreenStateDetector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/ServiceAlarm.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/ServiceAlarm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/StatusDispatcher$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/StatusDispatcher$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/StatusDispatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/StatusDispatcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/StatusMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/StatusMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/StringUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/StringUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/SupplicantPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/SupplicantPattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/WFScanResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/utility/WFScanResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/widget/StatusUpdateService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/widget/StatusUpdateService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/widget/UpdateService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/widget/UpdateService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/widget/WidgetHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/widget/WidgetHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/widget/WidgetReceiver$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/widget/WidgetReceiver$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/widget/WidgetReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/org/wahtod/wififixer/widget/WidgetReceiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/annotation/group-index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/annotation/group-index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/appcompat/group-index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/appcompat/group-index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/com/android/tools/build/group-index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/com/android/tools/build/group-index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/lint-results.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/lint-results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/lint-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/lint-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/DefaultExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/IntentConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/NotificationReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/SupplicantPatterns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ToggleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/WFBroadcastReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/WFMonitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/WFMonitorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/boot/BootReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/legacy/API8File.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/legacy/EclairScreenState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/legacy/EditorDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/legacy/EditorHelperGB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/legacy/EditorHelperLegacy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/legacy/JellyBeanSleepPolicy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/legacy/LegacyFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/legacy/LegacyScreenState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/legacy/LegacySleepPolicy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/legacy/SleepPolicyHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/legacy/StrictModeDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/legacy/StrictModeSetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/legacy/VersionedFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/legacy/VersionedScreenState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/prefs/AppCompatPreferenceActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/prefs/MyPrefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/prefs/PrefConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/prefs/PrefUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/prefs/PrefsBackupAgent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/About.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/AboutFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/AppFragmentActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/BaseDialogFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/BaseViewPager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/ConnectFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/ExpandViewAnimation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/FirstPageFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/HelpActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/KnownNetworksFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/LocalNetworksFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/LocalNetworksLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/LogFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/PrefActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/QuickSettingsFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/StatusFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/TabListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/ui/TutorialFragmentActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/AsyncWifiManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/BroadcastHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/FifoList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/HostMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/Hostup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/LogOpenHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/LogUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/LoggingWakeLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/NotifUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/ScreenStateDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/ServiceAlarm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/StatusDispatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/StatusMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/StopWatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/StringUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/SupplicantPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/ThreadHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/WFConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/WFScanResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/WakeLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/WifiLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/utility/WifiWatchdogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/widget/FixerWidget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/widget/FixerWidgetSmall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/widget/StatusUpdateService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/widget/UpdateService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/widget/WidgetHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/wahtod/wififixer/widget/WidgetReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/.gradle/5.3-20190122101802+0000/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/.gradle/5.3-20190122101802+0000/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/.gradle/5.3-20190122101802+0000/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/.gradle/5.3-20190122101802+0000/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/.gradle/5.3-20190122101802+0000/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/DefaultExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/IntentConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/NotificationReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/SupplicantPatterns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ToggleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/WFBroadcastReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/WFMonitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/WFMonitorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/boot/BootReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/legacy/API8File.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/legacy/EclairScreenState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/legacy/EditorDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/legacy/EditorHelperGB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/legacy/EditorHelperLegacy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/legacy/JellyBeanSleepPolicy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/legacy/LegacyFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/legacy/LegacyScreenState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/legacy/LegacySleepPolicy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/legacy/SleepPolicyHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/legacy/StrictModeDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/legacy/StrictModeSetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/legacy/VersionedFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/legacy/VersionedScreenState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/prefs/AppCompatPreferenceActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/prefs/MyPrefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/prefs/PrefConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/prefs/PrefUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/prefs/PrefsBackupAgent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/About.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/AboutFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/AppFragmentActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/BaseDialogFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/BaseViewPager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/ConnectFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/ExpandViewAnimation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/FirstPageFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/HelpActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/KnownNetworksFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/LocalNetworksFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/LocalNetworksLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/LogFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/PrefActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/QuickSettingsFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/StatusFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/TabListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/ui/TutorialFragmentActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/AsyncWifiManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/BroadcastHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/FifoList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/HostMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/Hostup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/LogOpenHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/LogUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/LoggingWakeLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/NotifUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/ScreenStateDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/ServiceAlarm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/StatusDispatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/StatusMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/StopWatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/StringUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/SupplicantPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/ThreadHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/WFConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/WFScanResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/WakeLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/WifiLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/utility/WifiWatchdogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/widget/FixerWidget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/widget/FixerWidgetSmall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/widget/StatusUpdateService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/widget/UpdateService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/widget/WidgetHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wififixer/src/org/wahtod/wififixer/widget/WidgetReceiver.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,6 +464,7 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_execution_target|Nexus 5X API 28" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -176,9 +563,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -190,11 +577,11 @@
     <property name="device.picker.selection" value="ZY2256H95F" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.62362033" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.2.1" />
   </component>
   <component name="RunDashboard">
@@ -209,15 +596,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.Wifi-Fixer [clean]">
-    <configuration default="true" type="AndroidJUnit">
+  <component name="RunManager" selected="Android App.Wifi-Fixer">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wifi-Fixer" type="AndroidRunConfigurationType" activateToolWindowBeforeRun="false">
+    <configuration name="Wifi-Fixer" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="Wifi-Fixer" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -234,8 +621,31 @@
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <option name="DEBUGGER_TYPE" value="Java" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
       <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
       <Profilers>
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
@@ -526,7 +936,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556231034325</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Clean build of Wifi-Fixer&#10;          Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;&#10;          Gradle 5.4&#10;          Java 11 JDK&#10;          02/25/2019&#10;          4:45 pm&#10;&#10;          Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;&#10;          Updated Nightly Build 5.4-20190318&#10;          03/05/2019&#10;&#10;          5:10 pm&#10;          Java 11.02 JDK&#10;          03/28/2019&#10;&#10;Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;">
+      <created>1556231606195</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1556231606195</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -550,16 +967,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.48768115" visible="true" weight="0.32611173" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.4847826" visible="true" weight="0.32611173" />
       <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51231885" side_tool="true" visible="true" weight="0.32611173" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51521736" side_tool="true" visible="true" weight="0.32611173" />
       <window_info anchor="bottom" id="Logcat" order="10" sideWeight="0.49927536" weight="0.3295325" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49275362" weight="0.24173318" />
       <window_info anchor="bottom" id="CheckStyle" order="12" />
       <window_info anchor="bottom" id="Gradle View" order="13" sideWeight="0.4985507" weight="0.3295325" />
       <window_info anchor="bottom" id="Inspection Results" order="14" sideWeight="0.49851853" weight="0.32993197" />
       <window_info anchor="bottom" id="Messages" order="15" />
-      <window_info anchor="bottom" id="Terminal" order="16" sideWeight="0.5536232" weight="0.32302937" />
+      <window_info anchor="bottom" id="Terminal" order="16" sideWeight="0.5528985" weight="0.322691" />
       <window_info anchor="bottom" id="Problems" order="17" sideWeight="0.4985507" weight="0.32839224" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -568,11 +985,11 @@
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Device File Explorer" order="6" side_tool="true" />
-      <window_info anchor="right" id="Gradle" order="7" visible="true" weight="0.38043478" />
+      <window_info anchor="right" id="Gradle" order="7" weight="0.38043478" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Build File Explorer" order="10" />
-      <window_info anchor="right" id="Assistant" order="11" weight="0.32962963" />
+      <window_info anchor="right" id="Assistant" order="11" visible="true" weight="0.3289855" />
       <window_info anchor="right" id="Preview" order="12" weight="0.32962963" />
       <window_info anchor="right" id="Properties!" order="13" />
     </layout>
@@ -726,7 +1143,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.62362033" />
               </list>
             </option>
           </splitter-proportions>
@@ -734,10 +1151,11 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.62362033" />
               </list>
             </option>
           </splitter-proportions>
@@ -757,10 +1175,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.62362033" />
               </list>
             </option>
           </splitter-proportions>
