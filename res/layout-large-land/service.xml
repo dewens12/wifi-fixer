@@ -23,7 +23,7 @@
     android:id="@+id/RelativeLayout1"
     android:layout_width="match_parent"
     android:layout_height="fill_parent"
-    android:gravity="left"
+    android:gravity="start"
     android:orientation="horizontal"
     tools:context=".ui.MainActivity">
 
@@ -31,14 +31,14 @@
         android:id="@+id/toggles"
         android:layout_width="170dp"
         android:layout_height="300dp"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
         android:layout_centerVertical="true" />
 
     <FrameLayout
         android:id="@+id/about"
         android:layout_width="350dp"
         android:layout_height="350dp"
-        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
         android:layout_centerVertical="true" />
 
     <FrameLayout
@@ -46,7 +46,7 @@
         android:layout_width="350dp"
         android:layout_height="350dp"
         android:layout_alignTop="@+id/about"
-        android:layout_marginRight="53dp"
-        android:layout_toLeftOf="@+id/toggles" />
+        android:layout_marginEnd="53dp"
+        android:layout_toStartOf="@+id/toggles" />
 
 </RelativeLayout>

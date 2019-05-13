@@ -4,23 +4,6 @@
             "outputFile": "C:\\Users\\ewens\\Documents\\GitHub\\Wifi-Fixer\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-el\\values-el.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ewens\\.gradle\\caches\\transforms-2\\files-2.1\\b1eb04a047733d4841e7bb1ed7a045d7\\res\\values-el\\values-el.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "31",
-                        "startColumns": "4",
-                        "startOffsets": "3051",
-                        "endColumns": "100",
-                        "endOffsets": "3147"
-                    }
-                },
-                {
                     "source": "C:\\Users\\ewens\\.gradle\\caches\\transforms-2\\files-2.1\\a60a6cab9572fea47a252be77ad8645e\\res\\values-el\\values-el.xml",
                     "from": {
                         "startLines": "2,3,4,5",
@@ -35,6 +18,23 @@
                         "startOffsets": "2879,3152,3321,3406",
                         "endColumns": "86,168,84,79",
                         "endOffsets": "2961,3316,3401,3481"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ewens\\.gradle\\caches\\transforms-2\\files-2.1\\2d667b5696414643b1cf904cf40c869d\\res\\values-el\\values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "31",
+                        "startColumns": "4",
+                        "startOffsets": "3051",
+                        "endColumns": "100",
+                        "endOffsets": "3147"
                     }
                 },
                 {
