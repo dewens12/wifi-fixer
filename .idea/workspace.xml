@@ -187,17 +187,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Wifi-Fixer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Wifi-Fixer" type="feadf853:AndroidModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="AndroidView" />
       <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
@@ -607,7 +597,21 @@
       <option name="project" value="LOCAL" />
       <updated>1557768677183</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Clean build of Wifi-Fixer&#10;          Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;&#10;          Gradle 5.4&#10;          Java 11 JDK&#10;          02/25/2019&#10;          4:45 pm&#10;&#10;          Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;&#10;          Updated Nightly Build 5.4-20190318&#10;          03/05/2019&#10;&#10;          5:10 pm&#10;          Java 11.02 JDK&#10;          03/28/2019&#10;&#10;Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;&#10;4:55 pm &#10;Java 12.0.1&#10;05/03/2019&#10;&#10;Update Right to End Margins&#10;       Left to Start Margins&#10;       5/13/2019&#10;       12:30 pm">
+      <created>1557769348569</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1557769348569</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Clean build of Wifi-Fixer&#10;          Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;&#10;          Gradle 5.4&#10;          Java 11 JDK&#10;          02/25/2019&#10;          4:45 pm&#10;&#10;          Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;&#10;          Updated Nightly Build 5.4-20190318&#10;          03/05/2019&#10;&#10;          5:10 pm&#10;          Java 11.02 JDK&#10;          03/28/2019&#10;&#10;Signed-off-by: Dwayne Ewens &lt;ewens_inc@hotmail.com&gt;&#10;4:55 pm &#10;Java 12.0.1&#10;05/03/2019&#10;&#10;Update Right to End Margins&#10;       Left to Start Margins&#10;       5/13/2019&#10;       12:30 pm">
+      <created>1557769362752</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1557769362752</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
