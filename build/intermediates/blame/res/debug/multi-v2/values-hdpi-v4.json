@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Dwayne Ewens\\Documents\\GitHub\\Wifi-Fixer\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "outputFile": "C:\\Users\\ewens\\Documents\\GitHub\\Wifi-Fixer\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Dwayne Ewens\\Documents\\GitHub\\Wifi-Fixer\\res\\values-hdpi\\textsizes.xml",
+                    "source": "C:\\Users\\ewens\\Documents\\GitHub\\Wifi-Fixer\\res\\values-hdpi\\textsizes.xml",
                     "from": {
                         "startLines": "22,28,32,36",
                         "startColumns": "4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Dwayne Ewens\\.gradle\\caches\\transforms-2\\files-2.1\\71cf988fef49df4286750f5546e81dc6\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "C:\\Users\\ewens\\.gradle\\caches\\transforms-2\\files-2.1\\2773d04cb66d992fefc9073a88fca527\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
